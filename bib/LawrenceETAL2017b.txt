@@ -1,0 +1,12 @@
+@article{LawrenceETAL:2017b,
+	title = {Counterfactual Learning for Machine Translation: Degeneracies and Solutions},
+	url = {http://arxiv.org/abs/1711.08621},
+	shorttitle = {Counterfactual Learning for Machine Translation},
+	journaltitle = {{arXiv}:1711.08621 [cs, stat]},
+	author = {Lawrence, Carolin and Gajane, Pratik and Riezler, Stefan},
+	urldate = {2017-11-27},
+	date = {2017-11-23},
+	eprinttype = {arxiv},
+	eprint = {1711.08621},
+	keywords = {Computer Science - Learning, Statistics - Machine Learning, Computer Science - Computation and Language},
+}

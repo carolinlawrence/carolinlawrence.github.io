@@ -1,0 +1,11 @@
+@InProceedings{LawrenceETAL:17a,
+	author    = {Lawrence, Carolin  and  Sokolov, Artem  and  Riezler, Stefan},
+	title     = {Counterfactual Learning from Bandit Feedback under Deterministic Logging : A Case Study in Statistical Machine Translation},
+	booktitle = {Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing},
+	month     = {September},
+	year      = {2017},
+	address   = {Copenhagen, Denmark},
+	publisher = {Association for Computational Linguistics},
+	pages     = {2556--2566},
+	url       = {https://www.aclweb.org/anthology/D17-1271}
+}

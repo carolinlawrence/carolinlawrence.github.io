@@ -1,0 +1,10 @@
+@article{JehlETAL:19,
+	author = {Jehl, Laura  and Lawrence, Carolin  and Riezler, Stefan },
+	title = {Learning Neural Sequence-to-Sequence Models from Weak Feedback  with Bipolar Ramp Loss},
+	journal = {Transactions of the Association for Computational Linguistics},
+	volume = {7},
+	year = {2019},
+	issn = {2307-387X},
+	url = {https://www.transacl.org/ojs/index.php/tacl/article/view/1594},
+	pages = {233--248}
+}

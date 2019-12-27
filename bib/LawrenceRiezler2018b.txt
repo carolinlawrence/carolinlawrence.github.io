@@ -1,0 +1,8 @@
+@Inproceedings{LawrenceRiezler:18,
+	author    = {Lawrence, Carolin and Riezler, Stefan},
+	title     = {{Counterfactual Learning from Human Proofreading Feedback for Semantic Parsing}},
+	booktitle = {{“Learning by Instruction” Workshop at the 32nd Conference on Neural Information Processing Systems (NIPS)}},
+	year      = {2018},
+	address   = {Montréal, Canada},
+	month     = {December}
+}

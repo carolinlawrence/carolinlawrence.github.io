@@ -1,0 +1,9 @@
+@Inproceedings{LawrenceRiezler:18,
+	author    = {Lawrence, Carolin and Riezler, Stefan},
+	title     = {{Improving a Neural Semantic Parser by Counterfactual Learning from Human Bandit Feedback}},
+	booktitle = {{Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (ACL)}},
+	year      = {2018},
+	address   = {Melbourne, Australia},
+	month     = {July},
+	publisher = {Association for Computational Linguistics}
+}

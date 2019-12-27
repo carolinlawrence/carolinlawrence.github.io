@@ -1,0 +1,18 @@
+@InProceedings{lawrence-riezler:2016:COLINGDEMO,
+  author    = {Lawrence, Carolin  and  Riezler, Stefan},
+  title     = {NLmaps: A Natural Language Interface to Query OpenStreetMap},
+  booktitle = {Proceedings of COLING 2016, the 26th International Conference on Computational Linguistics: System Demonstrations},
+  month     = {December},
+  year      = {2016},
+  address   = {Osaka, Japan},
+  publisher = {The COLING 2016 Organizing Committee},
+  pages     = {6--10},
+  abstract  = {We present a Natural Language Interface (nlmaps.cl.uni-heidelberg.de) to query
+	OpenStreetMap. Natural language questions about geographical facts are parsed
+	into database queries that can be executed against the OpenStreetMap (OSM)
+	database. After parsing the question, the system provides a text based answer
+	as well as an interactive map with all points of interest and their relevant
+	information marked. Additionally, we provide several options for users to give
+	feedback after a question has been parsed.},
+  url       = {http://aclweb.org/anthology/C16-2002}
+}

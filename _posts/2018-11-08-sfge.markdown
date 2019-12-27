@@ -1,0 +1,20 @@
+---
+layout: post
+title: "Taming Wild Reward Functions: The Score Function Gradient Estimator Trick"
+date: 2018-11-12
+---
+I have written a <a href='https://www.cl.uni-heidelberg.de/statnlpgroup/blog/sfge/'>blog post</a> that explains the need for the score function gradient estimator trick and how it works.
+
+# Teaser
+
+MLE is often not enough to train sequence-to-sequence neural networks in NLP. Instead we employ an external metric, which is a reward function that can help us judge model outputs. The parameters of the network are then updated on the basis of the model outputs and corresponding rewards.
+
+For this update, it is necessary to obtain a derivative.
+
+But how can we do this, if the external function is unknown or cannot be derived?
+
+__Enter:__ The score function gradient estimator trick.
+
+<h3><a href='https://www.cl.uni-heidelberg.de/statnlpgroup/blog/sfge/'>Full story.</a></h3>
+
+![]({{ "/images/luke.jpg" | relative_url }})

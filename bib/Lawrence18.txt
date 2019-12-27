@@ -1,0 +1,8 @@
+@Book{Lawrence:18,
+  title     = {{Response-Based and Counterfactual Learning for Sequence-to-Sequence Tasks in NLP}},
+  publisher = {Universit\"{a}tsbibliothek Heidelberg},
+  year      = {2018},
+  author    = {Lawrence, Carolin},
+  address   = {Heidelberg, Germany},
+  doi       = {10.11588/heidok.00026477},
+}

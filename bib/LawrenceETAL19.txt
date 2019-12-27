@@ -1,0 +1,12 @@
+@inproceedings{LawrenceETAL:19,
+    title = "Attending to Future Tokens for Bidirectional Sequence Generation",
+    author = "Lawrence, Carolin  and
+      Kotnis, Bhushan  and
+      Niepert, Mathias",
+    booktitle = "Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP)",
+    year = "2019",
+    address = "Hong Kong, China",
+    url = "https://www.aclweb.org/anthology/D19-1001",
+    doi = "10.18653/v1/D19-1001",
+    pages = "1--10",
+}
