@@ -1,0 +1,7 @@
+@inproceedings{SztylerETAL:19,
+	author = {Sztyler, Timo  and Lawrence, Carolin  and Malone, Brandon },
+	title = {Building a Biomedical Knowledge Graph and Predicting Novel Relations},
+    booktitle = "Scientific Literature Knowledge Bases",
+    year = "2019",
+    address = "Amherst, MA, USA",
+}
