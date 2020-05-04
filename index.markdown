@@ -33,8 +33,9 @@ From 2014-2018 I was graduate research assistant and PhD student at the Statisti
 
 # News
 ## 2020
+* April 30: I gave a virtual talk at KMD's STEAM talk series about how to "Extract, Enrich & Explain Knowledge".
 * January 14: I gave a lecture on reinforcement learning and its applications to sequence-to-sequence NLP at the <a href="https://ecole-itn.eu/">ECOLE</a> winter school
-* Reviewing Activities: ACL, IJCAI
+* Reviewing Activities: ACL, IJCAI, RepL4NLP
 
 ## 2019
 * November 5: I presented my <a href='https://www.aclweb.org/anthology/D19-1001.pdf'>EMNLP paper</a> with my colleagues Bhushan Kotnis and <a href='http://www.matlog.net/'>Mathias Niepert</a> at <a href='https://sites.google.com/view/wngt19/home'>EMNLP</a> as the first oral presentation of the conference. Hong Kong, China.<br/> <a href='https://github.com/carolinlawrence/BiSon'>Code.</a>
