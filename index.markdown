@@ -33,6 +33,7 @@ From 2014-2018 I was graduate research assistant and PhD student at the Statisti
 
 # News
 ## 2020
+* May 13: I gave a talk at the <a href="https://www.cl.uni-heidelberg.de/colloquium/statnlp/">StatNLP Colloquium</a> about "Bidirectional Sequence Generation and its Prototype Transfer".
 * April 30: I gave a virtual talk at KMD's STEAM talk series about how to "Extract, Enrich & Explain Knowledge".
 * January 14: I gave a lecture on reinforcement learning and its applications to sequence-to-sequence NLP at the <a href="https://ecole-itn.eu/">ECOLE</a> winter school
 * Reviewing Activities: ACL, IJCAI, RepL4NLP
