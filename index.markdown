@@ -28,7 +28,7 @@ From 2014-2018 I was graduate research assistant and PhD student at the Statisti
 # Research Interests
 * Machine Learning, particularly for Graph-structured Data and using Reinforcement Learning
 * Natural Language Processing, particularly Question-Answering and Dialogue
-* Explainable AI
+* Explainable AI: AI should enrich our lives and for this we should work on interpretable, trustworthy and inclusive AI
 
 
 # News
