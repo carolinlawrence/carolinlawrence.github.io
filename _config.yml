@@ -63,3 +63,5 @@ scholar:
   source: ./_data
   bibliography_template: bib
   #replace_strings: true
+  
+whitelist: - jekyll-redirect-from
