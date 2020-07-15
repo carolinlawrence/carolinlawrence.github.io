@@ -2,6 +2,6 @@
 layout: post
 title: "Attending to Future Tokens for Bidirectional Sequence Generation"
 date: 2020-02-03
-redirect_to: https://www.neclab.eu/blog/attending-to-future-tokens-for-bidirectional-sequence-generation'
+redirect_to: https://www.neclab.eu/blog/attending-to-future-tokens-for-bidirectional-sequence-generation
 ---
 
