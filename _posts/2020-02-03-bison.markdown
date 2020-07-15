@@ -3,7 +3,5 @@ layout: post
 title: "Attending to Future Tokens for Bidirectional Sequence Generation"
 date: 2020-02-03
 ---
-<head>
-  <meta http-equiv='refresh' content='0; URL=https://www.neclab.eu/blog/attending-to-future-tokens-for-bidirectional-sequence-generation'>
-</head>
+redirect_to: https://www.neclab.eu/blog/attending-to-future-tokens-for-bidirectional-sequence-generation'
 
