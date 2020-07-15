@@ -2,6 +2,6 @@
 layout: post
 title: "Interpretability and Analysis of Models for NLP"
 date: 2020-02-03
----
 redirect_to: https://medium.com/@lawrence.carolin/interpretability-and-analysis-of-models-for-nlp-e6b977ac1dc6?source=friends_link&sk=02f3219600aebb081169e58354ff4b39
+---
 
