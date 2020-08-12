@@ -39,7 +39,7 @@ From 2014-2018 I was graduate research assistant and PhD student at the Statisti
 * April 30: Talk at KMD's STEAM talk series about how to "Extract, Enrich & Explain Knowledge".
 * February 3: New <a href="https://www.neclab.eu/blog/attending-to-future-tokens-for-bidirectional-sequence-generation">blog post</a> about our paper "Attending to Future Tokens for Bidirectional Sequence Generation"
 * January 14: Lecture on reinforcement learning and its applications to sequence-to-sequence NLP at the <a href="https://ecole-itn.eu/">ECOLE</a> winter school
-* Reviewing Activities: EMNLP, ACL, IJCAI, RepL4NLP
+* Reviewing Activities: EMNLP, ACL, IJCAI, COLING, RepL4NLP
 
 ## 2019
 * November 5: Presented my <a href='https://www.aclweb.org/anthology/D19-1001.pdf'>EMNLP paper</a> with my colleagues Bhushan Kotnis and <a href='http://www.matlog.net/'>Mathias Niepert</a> at <a href='https://sites.google.com/view/wngt19/home'>EMNLP</a> as the first oral presentation of the conference. Hong Kong, China.<br/> <a href='https://github.com/carolinlawrence/BiSon'>Code.</a>
