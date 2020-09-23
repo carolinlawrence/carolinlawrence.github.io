@@ -21,7 +21,7 @@ layout: page
     </div>
 </div>
 
-I am a research scientist in the Machine Learning group of NEC Labs Europe. I work on natural language processing (NLP), graph structured data and making machine-learnt models more interpretabe. Together with colleagues, I have recently developed a method for bidirectional sequence generation (BiSon), which we have for example applied to improve dialogue generation for chat bots.
+I am a research scientist in the Machine Learning group of NEC Labs Europe. I work on natural language processing (NLP), graph structured data and making machine-learnt models more interpretable. Together with colleagues, I have recently developed a method for bidirectional sequence generation (BiSon), which we have for example applied to improve dialogue generation for chat bots.
 
 From 2014-2018 I was graduate research assistant and PhD student at the Statistical NLP group at the Heidelberg University, supervised by Prof. Dr. Stefan Riezler. During my PhD I worked on Natural Language Processing (NLP) problems, such as machine translation and question-answering, and I explored how reinforcement learning can be applied to these problems.
 
@@ -33,6 +33,7 @@ From 2014-2018 I was graduate research assistant and PhD student at the Statisti
 
 # News
 ## 2020
+* September 24: Talk at the first virtual <a href="https://www.heidelberg-laureate-forum.org/">Heidelberg Laureate Forum (HLF)</a> about “The Knowledge Pipeline: Extract, Enrich and Explain”.
 * July 14: <a href="https://medium.com/@lawrence.carolin/interpretability-and-analysis-of-models-for-nlp-e6b977ac1dc6?source=friends_link&sk=02f3219600aebb081169e58354ff4b39">Blog post</a> that summarices the ACL 2020 track "Interpretability and Analysis of Models for NLP"
 * July 3-10: I was an official microblogger for ACL 2020, focusing on the track "Interpretability and Analysis of Models for NLP" (see also my Twitter handle below). I'm also one of the mentors at ACL 2020.
 * May 13: Talk at the <a href="https://www.cl.uni-heidelberg.de/colloquium/statnlp/">StatNLP Colloquium</a> about "Bidirectional Sequence Generation and its Prototype Transfer".
