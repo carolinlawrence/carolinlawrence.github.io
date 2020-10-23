@@ -33,14 +33,15 @@ From 2014-2018 I was graduate research assistant and PhD student at the Statisti
 
 # News
 ## 2020
-* September 24: Talk at the first virtual <a href="https://www.heidelberg-laureate-forum.org/">Heidelberg Laureate Forum (HLF)</a> about “The Knowledge Pipeline: Extract, Enrich and Explain”.
+* September 30: Talk at the virtual <a href="https://www.meetup.com/Natural-Language-Processing-Copenhagen-Meetup/events/268319728/">Natural Language Processing Copenhagen Meetup</a> on "Bidirectional Sequence Generation and Graph AI".
+* September 24: Talk at the first virtual <a href="https://www.heidelberg-laureate-forum.org/">Heidelberg Laureate Forum (HLF)</a> about "The Knowledge Pipeline: Extract, Enrich and Explain".
 * July 14: <a href="https://medium.com/@lawrence.carolin/interpretability-and-analysis-of-models-for-nlp-e6b977ac1dc6?source=friends_link&sk=02f3219600aebb081169e58354ff4b39">Blog post</a> that summarices the ACL 2020 track "Interpretability and Analysis of Models for NLP"
 * July 3-10: I was an official microblogger for ACL 2020, focusing on the track "Interpretability and Analysis of Models for NLP" (see also my Twitter handle below). I'm also one of the mentors at ACL 2020.
 * May 13: Talk at the <a href="https://www.cl.uni-heidelberg.de/colloquium/statnlp/">StatNLP Colloquium</a> about "Bidirectional Sequence Generation and its Prototype Transfer".
 * April 30: Talk at KMD's STEAM talk series about how to "Extract, Enrich & Explain Knowledge".
 * February 3: New <a href="https://www.neclab.eu/blog/attending-to-future-tokens-for-bidirectional-sequence-generation">blog post</a> about our paper "Attending to Future Tokens for Bidirectional Sequence Generation"
 * January 14: Lecture on reinforcement learning and its applications to sequence-to-sequence NLP at the <a href="https://ecole-itn.eu/">ECOLE</a> winter school
-* Reviewing Activities: EMNLP, ACL, IJCAI, COLING, RepL4NLP
+* Reviewing Activities: EMNLP, ACL, IJCAI, COLING, RepL4NLP, AAAI & Area Chair for EACL
 
 ## 2019
 * November 5: Presented my <a href='https://www.aclweb.org/anthology/D19-1001.pdf'>EMNLP paper</a> with my colleagues Bhushan Kotnis and <a href='http://www.matlog.net/'>Mathias Niepert</a> at <a href='https://sites.google.com/view/wngt19/home'>EMNLP</a> as the first oral presentation of the conference. Hong Kong, China.<br/> <a href='https://github.com/carolinlawrence/BiSon'>Code.</a>
