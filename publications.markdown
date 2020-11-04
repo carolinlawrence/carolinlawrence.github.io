@@ -6,7 +6,7 @@ layout: page
 
 # 2020
 <ul>  
-<p><li><b>Extended Abstract. Explaining Neural Matrix Factorization with Gradient Rollback.</b> Carolin Lawrence, Timo Sztyler, <a href='http://www.matlog.net'>Mathias Niepert</a>. In <i><a href="https://wimlworkshop.org/neurips2020/">WiML</a> Workshop at the Thirty-fourth Conference on Neural Information Processing Systems (<a href="https://nips.cc/Conferences/2020">NeurIPS 2020</a>)</i>, hosted virtually. (<a href="https://arxiv.org/abs/2010.05516">pdf</a>)</li></p>
+<p><li><b>Extended Abstract. Explaining Neural Matrix Factorization with Gradient Rollback.</b> Carolin Lawrence, Timo Sztyler, <a href='http://www.matlog.net'>Mathias Niepert</a>. In <i><a href="https://wimlworkshop.org/neurips2020/">WiML</a> Workshop at the Thirty-fourth Conference on Neural Information Processing Systems (<a href="https://nips.cc/Conferences/2020">NeurIPS 2020</a>)</i>, hosted virtually.</li></p>
 <p><li><b>Explaining Neural Matrix Factorization with Gradient Rollback.</b> Carolin Lawrence, Timo Sztyler, <a href='http://www.matlog.net'>Mathias Niepert</a>. Pre-print. (<a href="https://arxiv.org/abs/2010.05516">pdf</a>)</li></p>
 <p><li><b>Answering Complex Queries in Knowledge Graphs with Bidirectional Sequence Encoders.</b> Bhushan Kotnis, Carolin Lawrence, <a href='http://www.matlog.net'>Mathias Niepert</a>. Pre-print. (<a href="https://arxiv.org/abs/2004.02596">pdf</a>)</li></p>
 </ul>
