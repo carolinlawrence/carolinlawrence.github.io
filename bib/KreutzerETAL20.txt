@@ -1,0 +1,8 @@
+@article{KreutzerETAL20,
+  author = {Kreutzer, Julia and Riezler, Stefan and Lawrence, Carolin},
+  year = {2020},
+  title = {Learning from Human Feedback: Challenges for Real-World Reinforcement Learning in NLP},
+  journal = {{``Challenges of Real-World RL'' Workshop at the 34th Conference on Neural Information Processing Systems (NeurIPS)}},
+  address   = {Online},
+  url = {https://arxiv.org/abs/2011.02511}
+}
