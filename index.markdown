@@ -12,7 +12,7 @@ layout: page
     </div>
     <div class="col-1-2">
        <div class="content">
-       Dr. Carolin Lawrence (Haas)<br/>
+       Dr. Carolin Lawrence<br/>
        Machine Learning Research Scientist<br/>
        NEC Labs Europe<br/>
        Heidelberg, Germany<br/>
