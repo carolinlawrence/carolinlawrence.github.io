@@ -34,15 +34,15 @@ layout: page
 # 2016
 <ul>
 <p><li><b> NLmaps: A Natural Language Interface to Query OpenStreetMap. </b> Carolin Lawrence, <a href='http://www.cl.uni-heidelberg.de/~riezler/'>Stefan Riezler</a>. In <i> Proceedings of the International Conference on Computational Linguistics: System Demonstrations (<a href='http://coling2016.anlp.jp/'>COLING 2016</a>)</i>, Osaka, Japan. (<a href="http://aclweb.org/anthology/C/C16/C16-2002.pdf">pdf</a>) (<a href="/bib/LawrenceRiezler2016.txt">bib</a>) </li></p>
-<p><li><b> A Corpus and Semantic Parser for Natural Language Querying of OpenStreetMap. </b> Carolin Haas, <a href='http://www.cl.uni-heidelberg.de/~riezler/'>Stefan Riezler</a>. In <i>Proceedings of the Conference of the North American Chapter of the Association for Computational Linguistics – Human Language Technologies (<a href='http://naacl.org/naacl-hlt-2016/'>NAACL HLT 2016</a>)</i>, San Diego, CA. (<a href="http://www.aclweb.org/anthology/N16-1088">pdf</a>) (<a href="/bib/HaasRiezler2016.txt">bib</a>) (<a href="/slides/16NAACL.pdf">slides</a>)</li></p>
+<p><li><b> A Corpus and Semantic Parser for Natural Language Querying of OpenStreetMap. </b> Carolin Haas / Lawrence, <a href='http://www.cl.uni-heidelberg.de/~riezler/'>Stefan Riezler</a>. In <i>Proceedings of the Conference of the North American Chapter of the Association for Computational Linguistics – Human Language Technologies (<a href='http://naacl.org/naacl-hlt-2016/'>NAACL HLT 2016</a>)</i>, San Diego, CA. (<a href="http://www.aclweb.org/anthology/N16-1088">pdf</a>) (<a href="/bib/HaasRiezler2016.txt">bib</a>) (<a href="/slides/16NAACL.pdf">slides</a>)</li></p>
 </ul>
 # 2015
 <ul>
-<p><li><b> Response-based Learning for Machine Translation of Open-domain Database Queries. </b> Carolin Haas, <a href='http://www.cl.uni-heidelberg.de/~riezler/'>Stefan Riezler</a>. In <i>Proceedings of the Conference of the North American Chapter of the Association for Computational Linguistics – Human Language Technologies (<a href='http://naacl.org/naacl-hlt-2015/'>NAACL HLT 2015</a>)</i>, Denver, CO. (<a href="http://www.aclweb.org/anthology/N15-1149">pdf</a>) (<a href="/bib/HaasRiezler2015.txt">bib</a>)</li></p>
+<p><li><b> Response-based Learning for Machine Translation of Open-domain Database Queries. </b> Carolin Haas / Lawrence, <a href='http://www.cl.uni-heidelberg.de/~riezler/'>Stefan Riezler</a>. In <i>Proceedings of the Conference of the North American Chapter of the Association for Computational Linguistics – Human Language Technologies (<a href='http://naacl.org/naacl-hlt-2015/'>NAACL HLT 2015</a>)</i>, Denver, CO. (<a href="http://www.aclweb.org/anthology/N15-1149">pdf</a>) (<a href="/bib/HaasRiezler2015.txt">bib</a>)</li></p>
 </ul>
 # 2014
 <ul>
-<p><li><b> Response-based Learning for Grounded Machine Translation. </b> <a href='http://www.cl.uni-heidelberg.de/~riezler/'>Stefan Riezler</a>, <a href='http://simianer.de/'>Patrick Simianer</a> and Carolin Haas. In <i>Proceedings of the 52nd Annual Meeting of the Association for Computational Linguistics (<a href='http://acl2014.org/'>ACL 2014</a>)</i>, Baltimore, MD. (<a href='http://www.aclweb.org/anthology/P14-1083'>pdf</a>) (<a href="/bib/RiezlerETAL2014.txt">bib</a>)</li></p>
+<p><li><b> Response-based Learning for Grounded Machine Translation. </b> <a href='http://www.cl.uni-heidelberg.de/~riezler/'>Stefan Riezler</a>, <a href='http://simianer.de/'>Patrick Simianer</a> and Carolin Haas / Lawrence. In <i>Proceedings of the 52nd Annual Meeting of the Association for Computational Linguistics (<a href='http://acl2014.org/'>ACL 2014</a>)</i>, Baltimore, MD. (<a href='http://www.aclweb.org/anthology/P14-1083'>pdf</a>) (<a href="/bib/RiezlerETAL2014.txt">bib</a>)</li></p>
 </ul>
 
 
