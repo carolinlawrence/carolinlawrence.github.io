@@ -21,18 +21,18 @@ layout: page
     </div>
 </div>
 
-I am a research scientist in the Machine Learning group of NEC Labs Europe. I work on natural language processing (NLP), graph structured data and making machine-learnt models more interpretable. Together with colleagues, I have recently developed a method for bidirectional sequence generation (BiSon), which we have for example applied to improve dialogue generation for chat bots.
+I am a research scientist in the Machine Learning group of NEC Labs Europe. I work on natural language processing (NLP), graph structured data and making machine-learnt models more interpretable.
 
 From 2014-2018 I was graduate research assistant and PhD student at the Statistical NLP group at the Heidelberg University, supervised by Prof. Dr. Stefan Riezler. During my PhD I worked on Natural Language Processing (NLP) problems, such as machine translation and question-answering, and I explored how reinforcement learning can be applied to these problems.
 
-# Research Interests
+## Research Interests
 * Machine Learning, particularly for Graph-structured Data and using Reinforcement Learning
 * Natural Language Processing, particularly Question-Answering and Dialogue
 * Explainable AI: AI should enrich our lives and for this we should work on interpretable, trustworthy and inclusive AI
 
 
-# News
-## 2020
+## News
+# 2020
 * December 12: <a href="https://slideslive.com/38943164">Video</a> Presentation of <a href="https://arxiv.org/abs/2011.02511">Learning from Human Feedback: Challenges for Real-World Reinforcement Learning in NLP</a> at the <a href="https://sites.google.com/view/neurips2020rwrl">Challenges of Real-World RL Workshop</a>, co-located with <a href="https://neurips.cc/">NeurIPS 2020</a>.
 * December 9: Poster presentation of <a href="https://arxiv.org/abs/2010.05516">Gradient Rollback</a> at the <a href="https://wimlworkshop.org/neurips2020/">WiML workshop</a>, co-located with <a href="https://neurips.cc/">NeurIPS 2020</a>.
 * September 30: Talk at the virtual <a href="https://www.meetup.com/Natural-Language-Processing-Copenhagen-Meetup/events/268319728/">Natural Language Processing Copenhagen Meetup</a> on "Bidirectional Sequence Generation and Graph AI".
@@ -44,6 +44,7 @@ From 2014-2018 I was graduate research assistant and PhD student at the Statisti
 * February 3: New <a href="https://www.neclab.eu/blog/attending-to-future-tokens-for-bidirectional-sequence-generation">blog post</a> about our paper "Attending to Future Tokens for Bidirectional Sequence Generation"
 * January 14: Lecture on reinforcement learning and its applications to sequence-to-sequence NLP at the <a href="https://ecole-itn.eu/">ECOLE</a> winter school
 * Area Chair for EACL, Reviewer for: AAAI, EMNLP, ACL, IJCAI, COLING, RepL4NLP
+
 
 
 
