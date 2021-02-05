@@ -27,11 +27,16 @@ From 2014-2018 I was graduate research assistant and PhD student at the Statisti
 
 ## Research Interests
 * Machine Learning, particularly for Graph-structured Data and using Reinforcement Learning
-* Natural Language Processing, particularly Question-Answering and Dialogue
 * Explainable AI: AI should enrich our lives and for this we should work on interpretable, trustworthy and inclusive AI
+* Natural Language Processing, particularly Question-Answering and Dialogue
 
 
 ## News
+# 2021
+* February 9: <a href="https://sites.google.com/view/gclr2021/accepted-papers">GCLR Workshop</a> Presentation of Gradient Rollback
+* February 4 & 5: <a href="https://aaai.org/Conferences/AAAI-21/">AAAI 21</a> Presentation of our paper <a href="https://arxiv.org/abs/2010.05516">Explaining Neural Matrix Factorization with Gradient Rollback</a>
+* January 19: <a href="https://www.youtube.com/watch?v=6UeOwHtBF_0&feature=youtu.be">[YouTube Video]</a> Talk at the <a href="https://www.meetup.com/NLP-Zurich/events/275560462/">Zurich NLP Meetup</a>
+
 # 2020
 * December 12: <a href="https://slideslive.com/38943164">Video</a> Presentation of <a href="https://arxiv.org/abs/2011.02511">Learning from Human Feedback: Challenges for Real-World Reinforcement Learning in NLP</a> at the <a href="https://sites.google.com/view/neurips2020rwrl">Challenges of Real-World RL Workshop</a>, co-located with <a href="https://neurips.cc/">NeurIPS 2020</a>.
 * December 9: Poster presentation of <a href="https://arxiv.org/abs/2010.05516">Gradient Rollback</a> at the <a href="https://wimlworkshop.org/neurips2020/">WiML workshop</a>, co-located with <a href="https://neurips.cc/">NeurIPS 2020</a>.
@@ -43,7 +48,7 @@ From 2014-2018 I was graduate research assistant and PhD student at the Statisti
 * April 30: Talk at KMD's STEAM talk series about how to "Extract, Enrich & Explain Knowledge".
 * February 3: New <a href="https://www.neclab.eu/blog/attending-to-future-tokens-for-bidirectional-sequence-generation">blog post</a> about our paper "Attending to Future Tokens for Bidirectional Sequence Generation"
 * January 14: Lecture on reinforcement learning and its applications to sequence-to-sequence NLP at the <a href="https://ecole-itn.eu/">ECOLE</a> winter school
-* Area Chair for EACL, Reviewer for: AAAI, EMNLP, ACL, IJCAI, COLING, RepL4NLP
+* Area Chair for EACL, Reviewer for: AAAI, EMNLP, ACL, IJCAI, COLING, RepL4NLP, NAACL
 
 
 
