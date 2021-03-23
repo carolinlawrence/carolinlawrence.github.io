@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
+youtubeId: 6UeOwHtBF_0
 ---
 <div class="grid">
     <div class="col-1-2">
@@ -32,7 +33,7 @@ From 2014-2018 I was graduate research assistant and PhD student at the Statisti
 
 Recently, colleagues and I have developed a method to explain the prediction of neural matrix factorization models, which are used for knowledge base completion and recommender systems. You can check out a related talk here:
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/6UeOwHtBF_0/0.jpg)](http://www.youtube.com/watch?v=6UeOwHtBF_0 "From Text & Graphs to Explainable New Knowledge")
+{% include youtubePlayer.html id=page.youtubeId %}
 
 
 ## News
