@@ -6,9 +6,11 @@ layout: page
 
 # 2021
 <ul>  
+<p><li><b>Uncertainty Estimation and Calibration with Finite-State Probabilistic RNNs.</b> Cheng Wang, Carolin Lawrence, <a href='http://www.matlog.net'>Mathias Niepert</a>. <i>Ninth International Conference on Learning Representations (<a href="https://iclr.cc/">ICLR</a>)</i>. (<a href="https://arxiv.org/abs/2011.12010">pdf</a>)</li></p>
 <p><li><b>Explaining Neural Matrix Factorization with Gradient Rollback.</b> Carolin Lawrence, Timo Sztyler, <a href='http://www.matlog.net'>Mathias Niepert</a>. <i>35th AAAI Conference on Artificial Intelligence (<a href="https://aaai.org/Conferences/AAAI-21/">AAAI</a>).</i> (<a href="https://arxiv.org/abs/2010.05516">pdf</a>)</li></p>
 <p><li><b>Answering Complex Queries in Knowledge Graphs with Bidirectional Sequence Encoders.</b> Bhushan Kotnis, Carolin Lawrence, <a href='http://www.matlog.net'>Mathias Niepert</a>. <i>35th AAAI Conference on Artificial Intelligence (<a href="https://aaai.org/Conferences/AAAI-21/">AAAI</a>).</i> (<a href="https://arxiv.org/abs/2004.02596">pdf</a>)</li></p>
-<p><li><b>Uncertainty Estimation and Calibration with Finite-State Probabilistic RNNs.</b> Cheng Wang, Carolin Lawrence, <a href='http://www.matlog.net'>Mathias Niepert</a>. <i>Ninth International Conference on Learning Representations (<a href="https://iclr.cc/">ICLR</a>)</i>. (<a href="https://arxiv.org/abs/2011.12010">pdf</a>)</li></p>
+<p><li><b>Explaining Neural Matrix Factorization with Gradient Rollback.</b> Carolin Lawrence, Timo Sztyler, <a href='http://www.matlog.net'>Mathias Niepert</a>. <i>Graphs and More Complex Structures for Learning and Reasoning (<a href="https://sites.google.com/view/gclr2021/">GCLR</a>) at 35th AAAI Conference on Artificial Intelligence (<a href="https://aaai.org/Conferences/AAAI-21/">AAAI</a>)</i>.</li></p>  
+<p><li><b>Answering Complex Queries in Knowledge Graphs with Bidirectional Sequence Encoders.</b> Bhushan Kotnis, Carolin Lawrence, <a href='http://www.matlog.net'>Mathias Niepert</a>. <i>Graphs and More Complex Structures for Learning and Reasoning (<a href="https://sites.google.com/view/gclr2021/">GCLR</a>) at 35th AAAI Conference on Artificial Intelligence (<a href="https://aaai.org/Conferences/AAAI-21/">AAAI</a>)</i>.</li></p>
 </ul>
   
 # 2020
