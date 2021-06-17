@@ -5,8 +5,8 @@ layout: page
 ---
 
 ## 2021
-### Archival Papers
 <ul>  
+<p><li><b>VEGN: Variant Effect Prediction with Graph Neural Networks.</b> Jun Cheng, Carolin Lawrence, <a href='http://www.matlog.net'>Mathias Niepert</a>. In <i>Workshop on Computational Biology (<a href="https://icml-compbio.github.io">WCB</a>), at the Thirty-eighth International Conference on Machine Learning (<a href="https://icml.cc/">ICML</a>).</i></li></p>
 <p><li><b>Learning from Human Feedback: Challenges for Real-World Reinforcement Learning in NLP.</b> <a href="https://research.google/people/JuliaKreutzer/">Julia Kreutzer</a>, <a href='http://www.cl.uni-heidelberg.de/~riezler/'>Stefan Riezler</a> and Carolin Lawrence. In <i>5th Workshop on Structured Prediction for NLP (<a href="http://structuredprediction.github.io/SPNLP21">SPNLP</a>), at 59th Annual Meeting of the Association for Computational Linguistics (<a href="https://2021.aclweb.org/">ACL</a>).</i>  (<a href="https://arxiv.org/abs/2011.02511">pdf</a>)</li></p>
 <p><li><b>Uncertainty Estimation and Calibration with Finite-State Probabilistic RNNs.</b> Cheng Wang, Carolin Lawrence, <a href='http://www.matlog.net'>Mathias Niepert</a>. <i>Ninth International Conference on Learning Representations (<a href="https://iclr.cc/">ICLR</a>)</i>. (<a href="https://arxiv.org/abs/2011.12010">pdf</a>)</li></p>
 <p><li><b>Explaining Neural Matrix Factorization with Gradient Rollback.</b> Carolin Lawrence, Timo Sztyler, <a href='http://www.matlog.net'>Mathias Niepert</a>. <i>35th AAAI Conference on Artificial Intelligence (<a href="https://aaai.org/Conferences/AAAI-21/">AAAI</a>).</i> (<a href="https://arxiv.org/abs/2010.05516">pdf</a>)</li></p>
@@ -14,11 +14,11 @@ layout: page
 <p><li><b>Interpreting Node Embedding with Text-labeled Graphs.</b> Giuseppe Serra, Zhao Xu, Mathias Niepert, Carolin Lawrence, Peter Tino and Xin Yao. <i>International Joint Conference on Neural Networks (<a href="https://www.ijcnn.org/">IJCNN</a>)</i>.</li></p>
 </ul>
 
-### Cross-Submissions & Non-archival
+### Cross-Submissions
 <ul>
 <p><li><b>Answering Complex Queries in Knowledge Graphs with Bidirectional Sequence Encoders.</b> Bhushan Kotnis, Carolin Lawrence, <a href='http://www.matlog.net'>Mathias Niepert</a>. In <i>5th Workshop on Structured Prediction for NLP (<a href="http://structuredprediction.github.io/SPNLP21">SPNLP</a>), at 59th Annual Meeting of the Association for Computational Linguistics (<a href="https://2021.aclweb.org/">ACL</a>).</i></li></p>
 <p><li><b>Answering Complex Queries in Knowledge Graphs with Bidirectional Sequence Encoders.</b> Cheng Wang, Carolin Lawrence, <a href='http://www.matlog.net'>Mathias Niepert</a>. In <i>6th Workshop on Representation Learning for NLP (<a href="https://sites.google.com/view/repl4nlp-2021/">Repl4NLP</a>), at 59th Annual Meeting of the Association for Computational Linguistics (<a href="https://2021.aclweb.org/">ACL</a>).</i>.</li></p>
-<p><li><b>Uncertainty Estimation and Calibration with Finite-State Probabilistic RNNs.</b> Bhushan Kotnis, Carolin Lawrence, <a href='http://www.matlog.net'>Mathias Niepert</a>. In <i>6th Workshop on Representation Learning for NLP (<a href="https://sites.google.com/view/repl4nlp-2021/">Repl4NLP</a>), at 59th Annual Meeting of the Association for Computational Linguistics (<a href="https://2021.aclweb.org/">ACL</a>).</i>.</li></p>
+<p><li><b>Uncertainty Estimation and Calibration with Finite-State Probabilistic RNNs.</b> Bhushan Kotnis, Carolin Lawrence, <a href='http://www.matlog.net'>Mathias Niepert</a>. In <i>6th Workshop on Representation Learning for NLP (<a href="https://sites.google.com/view/repl4nlp-2021/">Repl4NLP</a>), at 59th Annual Meeting of the Association for Computational Linguistics (<a href="https://2021.aclweb.org/">ACL</a>).</i></li></p>
 <p><li><b>Explaining Neural Matrix Factorization with Gradient Rollback.</b> Carolin Lawrence, Timo Sztyler, <a href='http://www.matlog.net'>Mathias Niepert</a>. <i>Graphs and More Complex Structures for Learning and Reasoning (<a href="https://sites.google.com/view/gclr2021/">GCLR</a>) at 35th AAAI Conference on Artificial Intelligence (<a href="https://aaai.org/Conferences/AAAI-21/">AAAI</a>)</i>.</li></p>  
 <p><li><b>Answering Complex Queries in Knowledge Graphs with Bidirectional Sequence Encoders.</b> Bhushan Kotnis, Carolin Lawrence, <a href='http://www.matlog.net'>Mathias Niepert</a>. <i>Graphs and More Complex Structures for Learning and Reasoning (<a href="https://sites.google.com/view/gclr2021/">GCLR</a>) at 35th AAAI Conference on Artificial Intelligence (<a href="https://aaai.org/Conferences/AAAI-21/">AAAI</a>)</i>.</li></p>
 </ul>
