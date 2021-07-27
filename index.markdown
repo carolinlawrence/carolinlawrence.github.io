@@ -38,7 +38,9 @@ Recently, colleagues and I have developed a method to explain the prediction of 
 
 ## News
 # 2021
-* August 6: I will give an invited talk at the <a href="http://structuredprediction.github.io/SPNLP21/schedule/">5th Workshop on Structured Prediction for NLP</a>, co-located with ACL 21
+* November 18: I will give a half-day workshop on scientific communication for a <a href="https://en.itu.dk/Research/PhD-Programme/PhD-Courses/PhD-courses-2021/PhD-Course---Communicating-State-of-the-art-NLP-Research-to-a-Broader-Audience">PhD course at the University of Copenhagen</a>
+* October 8: I will give an invited talk at the <a href="https://xgml.github.io/">Explainaing Graph-Based Machine Learning Workshop</a>, co-located with <a href="https://www.akbc.ws/2021/">AKBC</a>
+* August 6: I will give an invited talk at the <a href="http://structuredprediction.github.io/SPNLP21/schedule/">5th Workshop on Structured Prediction for NLP</a>, co-located with <a href="https://2021.aclweb.org/">ACL 21</a>
 * April 8: Talk at <a href="https://python.geekle.us/agenda">Python for ML and AI Summit</a>
 * February 9: <a href="https://sites.google.com/view/gclr2021/accepted-papers">GCLR Workshop</a> Presentation of Gradient Rollback
 * February 4 & 5: <a href="https://aaai.org/Conferences/AAAI-21/">AAAI 21</a> Presentation of our paper <a href="https://arxiv.org/abs/2010.05516">Explaining Neural Matrix Factorization with Gradient Rollback</a>
