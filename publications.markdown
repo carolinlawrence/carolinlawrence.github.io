@@ -16,8 +16,9 @@ layout: page
 <p><li><b>Interpreting Node Embedding with Text-labeled Graphs.</b> Giuseppe Serra, Zhao Xu, Mathias Niepert, Carolin Lawrence, Peter Tino and Xin Yao. <i>International Joint Conference on Neural Networks (<a href="https://www.ijcnn.org/">IJCNN</a>)</i>.</li></p>
 </ul>
 
-### Cross-Submissions
+### Cross-Submissions & Abstracts
 <ul>
+<p><li><b>Human Evaluation Study for Explaining Knowledge Graph Completion.</b> Timo Sztyler, Carolin Lawrence. 4th <a href="https://blackboxnlp.github.io/">BlackboxNLP</a> Workshop on Analyzing and Interpreting Neural Networks for NLP, co-located with (<a href="https://2021.emnlp.org/">EMNLP</a>).</li></p>
 <p><li><b>Behavioral Testing of Knowledge Graph Embedding Models for Link Prediction.</b> Wiem Ben Rim, Carolin Lawrence, Kiril Gashteovski, Mathias Niepert, Naoaki Okazaki. In <i>Widening NLP, co-located with (<a href="https://2021.emnlp.org/">EMNLP</a>).</i></li></p>
 <p><li><b>Answering Complex Queries in Knowledge Graphs with Bidirectional Sequence Encoders.</b> Bhushan Kotnis, Carolin Lawrence, <a href='http://www.matlog.net'>Mathias Niepert</a>. In <i>5th Workshop on Structured Prediction for NLP (<a href="http://structuredprediction.github.io/SPNLP21">SPNLP</a>), at 59th Annual Meeting of the Association for Computational Linguistics (<a href="https://2021.aclweb.org/">ACL</a>).</i></li></p>
 <p><li><b>Answering Complex Queries in Knowledge Graphs with Bidirectional Sequence Encoders.</b> Cheng Wang, Carolin Lawrence, <a href='http://www.matlog.net'>Mathias Niepert</a>. In <i>6th Workshop on Representation Learning for NLP (<a href="https://sites.google.com/view/repl4nlp-2021/">Repl4NLP</a>), at 59th Annual Meeting of the Association for Computational Linguistics (<a href="https://2021.aclweb.org/">ACL</a>).</i>.</li></p>
