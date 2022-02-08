@@ -37,6 +37,9 @@ Recently, colleagues and I have developed a method to explain the prediction of 
 
 
 ## News
+# 2022
+* Student from Danish and other European universities wrote a <a href="https://nlpnorth.github.io/content/emnlp-2021-blogs.html">series of great blog posts</a> based on EMNLP 2022 papers and talks, this was based on the <a href="https://en.itu.dk/Research/PhD-Programme/PhD-Courses/PhD-courses-2021/PhD-Course---Communicating-State-of-the-art-NLP-Research-to-a-Broader-Audience">half-day workshop on scientific communication</a> I gave last year
+
 # 2021
 * <a href="https://www.akbc.ws/2021/awards/">Outstanding Paper Award at AKBC</a>, thanks to my co-authors for all the great discussions and work!
 * November 18: I will give a half-day workshop on scientific communication for a <a href="https://en.itu.dk/Research/PhD-Programme/PhD-Courses/PhD-courses-2021/PhD-Course---Communicating-State-of-the-art-NLP-Research-to-a-Broader-Audience">PhD course at the University of Copenhagen</a>
