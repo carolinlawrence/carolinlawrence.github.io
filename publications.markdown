@@ -6,6 +6,13 @@ layout: page
 
 ## 2021
 <ul>  
+  <p><li><b>MillIE: Modular & Iterative Multilingual Open Information Extraction.</b>Bhushan Kotnis, Kiril Gashteovski, Daniel Onoro Rubio, Ammar Shaker, Vanesa Rodriguez-Tembras, Makoto Takamoto, Mathias Niepert, Carolin Lawrence. In <i>60th Annual Meeting of the Association for Computational Linguistics (<a href="https://2022.aclweb.org/">ACL</a>).</i></li></p>
+  <p><li><b>BenchIE: A Framework for Multi-Faceted Fact-Based Open Information Extraction Evaluation.</b>Kiril Gashteovski, Mingying Yu, Bhushan Kotnis, Carolin Lawrence, Mathias Niepert, Goran Glavaš. In <i>60th Annual Meeting of the Association for Computational Linguistics (<a href="https://2022.aclweb.org/">ACL</a>).</i></li></p>
+  <p><li><b>AnnIE: An Annotation Platform for Constructing Complete Open Information Extraction Benchmark.</b>Niklas Friedrich, Kiril Gashteovski, Mingying Yu, Bhushan Kotnis, Carolin Lawrence, Mathias Niepert, Goran Glavaš. In <i>60th Annual Meeting of the Association for Computational Linguistics (<a href="https://2022.aclweb.org/">ACL</a>).</i></li></p>
+</ul>
+  
+## 2021
+<ul>  
   
   <p><li><b><i>Outstanding Paper Award</i> Behavioral Testing of Knowledge Graph Embedding Models for Link Prediction.</b> Wiem Ben Rim, Carolin Lawrence, Kiril Gashteovski, Mathias Niepert, Naoaki Okazaki. In <i>Conference on Automated Knowledge Base Construction (<a href="https://www.akbc.ws/2021/">AKBC</a>).</i> (<a href="https://www.akbc.ws/2021/papers/3_2B2MliB8V">pdf</a>)</li></p>
 <p><li><b>VEGN: Variant Effect Prediction with Graph Neural Networks.</b> Jun Cheng, Carolin Lawrence, <a href='http://www.matlog.net'>Mathias Niepert</a>. In <i>Workshop on Computational Biology (<a href="https://icml-compbio.github.io">WCB</a>), at the Thirty-eighth International Conference on Machine Learning (<a href="https://icml.cc/">ICML</a>).</i> (<a href="https://arxiv.org/abs/2106.13642">pdf</a>)</li></p>
