@@ -1,3 +1,8 @@
+---
+layout: page
+title: Activities
+permalink: /activities/
+---
 
 ## 2020
 * December 12: <a href="https://slideslive.com/38943164">Video</a> Presentation of <a href="https://arxiv.org/abs/2011.02511">Learning from Human Feedback: Challenges for Real-World Reinforcement Learning in NLP</a> at the <a href="https://sites.google.com/view/neurips2020rwrl">Challenges of Real-World RL Workshop</a>, co-located with <a href="https://neurips.cc/">NeurIPS 2020</a>.
