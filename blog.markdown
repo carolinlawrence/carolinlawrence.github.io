@@ -1,3 +1,8 @@
+---
+layout: page
+title: Blog Posts
+permalink: /blog/
+---
 
 <ul class="post-list">
 {% for post in site.posts %}
