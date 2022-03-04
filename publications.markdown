@@ -34,6 +34,7 @@ layout: page
 <p><li><b>Answering Complex Queries in Knowledge Graphs with Bidirectional Sequence Encoders.</b> Bhushan Kotnis, Carolin Lawrence, <a href='http://www.matlog.net'>Mathias Niepert</a>. <i>Graphs and More Complex Structures for Learning and Reasoning (<a href="https://sites.google.com/view/gclr2021/">GCLR</a>) at 35th AAAI Conference on Artificial Intelligence (<a href="https://aaai.org/Conferences/AAAI-21/">AAAI</a>)</i>.</li></p>
 </ul>
   
+<br/>
 ## 2020
 <ul>  
 <p><li><b>Learning from Human Feedback: Challenges for Real-World Reinforcement Learning in NLP.</b> <a href="https://research.google/people/JuliaKreutzer/">Julia Kreutzer</a>, <a href='http://www.cl.uni-heidelberg.de/~riezler/'>Stefan Riezler</a>, Carolin Lawrence. In <i><a href="https://sites.google.com/view/neurips2020rwrl">RWRL</a> Workshop at the Thirty-fourth Conference on Neural Information Processing Systems (<a href="https://nips.cc/Conferences/2020">NeurIPS 2020</a>)</i>, hosted virtually.</li></p>
