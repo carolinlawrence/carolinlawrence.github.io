@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-youtubeId: 6UeOwHtBF_0
+youtubeId: hqKoxqSHyiY
 ---
 <div class="grid">
     <div class="col-1-2">
@@ -22,7 +22,7 @@ youtubeId: 6UeOwHtBF_0
     </div>
 </div>
 
-I am a senior research scientist in the Machine Learning group of NEC Labs Europe. I work on natural language processing (NLP), graph structured data and making machine-learnt models more interpretable.
+I am the manager of the Human-Centric AI (HAI) group at NEC Labs Europe. In HAI we work towards enabling human-AI collaboration to empower society. We do this by building on the foundations of explainable AI and Natural Language Processing.
 
 From 2014-2018 I was graduate research assistant and PhD student at the Statistical NLP group at the Heidelberg University, supervised by Prof. Dr. Stefan Riezler. During my PhD I worked on Natural Language Processing (NLP) problems, such as machine translation and question-answering, and I explored how reinforcement learning can be applied to these problems.
 
