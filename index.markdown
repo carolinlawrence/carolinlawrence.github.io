@@ -22,7 +22,7 @@ youtubeId: 6UeOwHtBF_0
     </div>
 </div>
 
-I am the manager of the Human-Centric AI (HAI) group at NEC Labs Europe. In HAI we work towards enabling human-AI collaboration to empower society. We do this by building on the foundations of explainable AI and Natural Language Processing.
+I am a manager at NEC Labs Europe where I lead a team in the area of artificial intelligence, working on machine learning, NLP and explainable AI. Our team works towards enabling human-AI collaboration to empower society.
 
 From 2014-2018 I was graduate research assistant and PhD student at the Statistical NLP group at the Heidelberg University, supervised by Prof. Dr. Stefan Riezler. During my PhD I worked on Natural Language Processing (NLP) problems, such as machine translation and question-answering, and I explored how reinforcement learning can be applied to these problems.
 
