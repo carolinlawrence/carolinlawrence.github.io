@@ -14,8 +14,7 @@ youtubeId: 6UeOwHtBF_0
     <div class="col-1-2">
        <div class="content">
        Dr. Carolin Lawrence<br/>
-       Manager & Senior Machine Learning Research Scientist<br/>
-       NEC Labs Europe<br/>
+       Manager, NEC Labs Europe<br/>
        Heidelberg, Germany<br/>
        
        </div>
