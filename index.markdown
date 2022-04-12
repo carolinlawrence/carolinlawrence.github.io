@@ -26,8 +26,8 @@ I am a manager at NEC Labs Europe where I lead a team in the area of artificial 
 From 2014-2018 I was graduate research assistant and PhD student at the Statistical NLP group at the Heidelberg University, supervised by Prof. Dr. Stefan Riezler. During my PhD I worked on Natural Language Processing (NLP) problems, such as machine translation and question-answering, and I explored how reinforcement learning can be applied to these problems.
 
 ## Research Interests
-* Explainable AI: AI should enrich our lives and for this we should work on interpretable, trustworthy and inclusive AI
-* Natural Language Processing, particularly Question-Answering and Information Extraction
+* Explainable AI: AI should enrich our lives and for this we should work on interpretable, trustworthy and inclusive AI. <a href="https://www.youtube.com/watch?v=ZJXeMkA-4eA" target="_blank">[Video: Explainable AI]</a> <a href="https://www.youtube.com/watch?v=hqKoxqSHyiY" target="_blank">[Video: Explainable AI and Human Centricity]</a>
+* Natural Language Processing, particularly Question-Answering and Information Extraction. <a href="https://www.youtube.com/watch?v=-uJHzqI4zB0" target="_blank">[Video: Understanding Natural Language Processing (NLP)]</a>
 
 Recently, colleagues and I have developed a method to explain the prediction of neural matrix factorization models, which are used for knowledge base completion and recommender systems. You can check out a related talk here:
 
