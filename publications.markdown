@@ -6,9 +6,9 @@ layout: page
 
 ## 2022
 <ul>  
-  <p><li><b>MillIE: Modular & Iterative Multilingual Open Information Extraction. </b>Bhushan Kotnis, Kiril Gashteovski, Daniel Onoro Rubio, Ammar Shaker, Vanesa Rodriguez-Tembras, Makoto Takamoto, Mathias Niepert, Carolin Lawrence. In <i>60th Annual Meeting of the Association for Computational Linguistics (<a href="https://2022.aclweb.org/">ACL</a>).</i></li></p>
-  <p><li><b>BenchIE: A Framework for Multi-Faceted Fact-Based Open Information Extraction Evaluation. </b>Kiril Gashteovski, Mingying Yu, Bhushan Kotnis, Carolin Lawrence, Mathias Niepert, Goran Glavaš. In <i>60th Annual Meeting of the Association for Computational Linguistics (<a href="https://2022.aclweb.org/">ACL</a>).</i></li></p>
-  <p><li><b>AnnIE: An Annotation Platform for Constructing Complete Open Information Extraction Benchmark. </b>Niklas Friedrich, Kiril Gashteovski, Mingying Yu, Bhushan Kotnis, Carolin Lawrence, Mathias Niepert, Goran Glavaš. In System Demonstrations of <i>60th Annual Meeting of the Association for Computational Linguistics (<a href="https://2022.aclweb.org/">ACL</a>).</i></li></p>
+  <p><li><b>MillIE: Modular & Iterative Multilingual Open Information Extraction. </b>Bhushan Kotnis, Kiril Gashteovski, Daniel Onoro Rubio, Ammar Shaker, Vanesa Rodriguez-Tembras, Makoto Takamoto, Mathias Niepert, Carolin Lawrence. In <i>60th Annual Meeting of the Association for Computational Linguistics (<a href="https://2022.aclweb.org/">ACL</a>).</i>(<a href="https://aclanthology.org/2022.acl-long.478/">pdf</a>)</li></p>
+  <p><li><b>BenchIE: A Framework for Multi-Faceted Fact-Based Open Information Extraction Evaluation. </b>Kiril Gashteovski, Mingying Yu, Bhushan Kotnis, Carolin Lawrence, Mathias Niepert, Goran Glavaš. In <i>60th Annual Meeting of the Association for Computational Linguistics (<a href="https://2022.aclweb.org/">ACL</a>).</i>(<a href="https://aclanthology.org/2022.acl-long.307/">pdf</a>)</li></p>
+  <p><li><b>AnnIE: An Annotation Platform for Constructing Complete Open Information Extraction Benchmark. </b>Niklas Friedrich, Kiril Gashteovski, Mingying Yu, Bhushan Kotnis, Carolin Lawrence, Mathias Niepert, Goran Glavaš. In System Demonstrations of <i>60th Annual Meeting of the Association for Computational Linguistics (<a href="https://2022.aclweb.org/">ACL</a>).</i>(<a href="https://aclanthology.org/2022.acl-demo.5/">pdf</a>)</li></p>
 </ul>
   
 ## 2021
