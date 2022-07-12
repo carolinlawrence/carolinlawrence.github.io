@@ -36,9 +36,10 @@ Recently, colleagues and I have developed a method to explain the prediction of 
 
 ## News
 # 2022
-* My team and I are looking for a research engineer to work with us to bring research into applications. We work on explainable AI and Natural Language Processing. Our vision is to enable human-AI collaboration. If that sounds exciting to you, consider <a href="https://jobs.neclab.eu/jobs/openings/staff/NEC-NLE-2204-432-HAI-2-Senior_Research_Engineer_ML_[2204-432-HAI].pdf">applying</a>.
+* Area Chair for the <i>Interpretability, Interactivity and Analysis of Models for NLP</i> track at EMNLP
 * <a href="publications/">3 papers</a> accepted at ACL
 * Students from Danish and other European universities wrote a <a href="https://nlpnorth.github.io/content/emnlp-2021-blogs.html">series of great blog posts</a> based on EMNLP 2022 papers and talks, this was based on the <a href="https://en.itu.dk/Research/PhD-Programme/PhD-Courses/PhD-courses-2021/PhD-Course---Communicating-State-of-the-art-NLP-Research-to-a-Broader-Audience">half-day workshop on scientific communication</a> I gave last year
+* Action Editor for ACL ARR
 
 # 2021
 * <a href="https://www.akbc.ws/2021/awards/">Outstanding Paper Award at AKBC</a>, thanks to my co-authors for all the great discussions and work!
