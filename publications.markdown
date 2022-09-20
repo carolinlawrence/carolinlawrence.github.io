@@ -5,7 +5,8 @@ layout: page
 ---
 
 ## 2022
-<ul>  
+<ul>    
+  <p><li><b>KGxBoard: Explainable and Interactive Leaderboard for Evaluation of Knowledge Graph Completion Models.</b> Haris Widjaja, Kiril Gashteovski, Wiem Ben Rim, Pengfei Liu1, Christopher Malon, Daniel Ruffinelli, Carolin Lawrence, Graham Neubig. In <i>System Demonstrations of the 2022 Conference on Empirical Methods in Natural Language Processing  (<a href="https://2022.emnlp.org/">EMNLP</a>).</i></li></p>
   <p><li><b>Towards Modeling Uncertainty Propagation in Node Classification. </b>Zhao Xu, Carolin Lawrence, Ammar Shaker, Raman Siarheyeu. In <i>IEEE International Conference on Data Mining 2022 (<a href="https://icdm22.cse.usf.edu/">ICDM</a>).</i></li></p>
   <p><li><b>MillIE: Modular & Iterative Multilingual Open Information Extraction. </b>Bhushan Kotnis, Kiril Gashteovski, Daniel Onoro Rubio, Ammar Shaker, Vanesa Rodriguez-Tembras, Makoto Takamoto, Mathias Niepert, Carolin Lawrence. In <i>60th Annual Meeting of the Association for Computational Linguistics (<a href="https://2022.aclweb.org/">ACL</a>). </i>(<a href="https://aclanthology.org/2022.acl-long.478/">pdf</a>)</li></p>
   <p><li><b>BenchIE: A Framework for Multi-Faceted Fact-Based Open Information Extraction Evaluation. </b>Kiril Gashteovski, Mingying Yu, Bhushan Kotnis, Carolin Lawrence, Mathias Niepert, Goran Glavaš. In <i>60th Annual Meeting of the Association for Computational Linguistics (<a href="https://2022.aclweb.org/">ACL</a>). </i>(<a href="https://aclanthology.org/2022.acl-long.307/">pdf</a>)</li></p>
