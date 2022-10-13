@@ -6,13 +6,20 @@ layout: page
 
 ## 2022
 <ul>    
-  <p><li><b>KGxBoard: Explainable and Interactive Leaderboard for Evaluation of Knowledge Graph Completion Models.</b> Haris Widjaja, Kiril Gashteovski, Wiem Ben Rim, Pengfei Liu1, Christopher Malon, Daniel Ruffinelli, Carolin Lawrence, Graham Neubig. In <i>System Demonstrations of the 2022 Conference on Empirical Methods in Natural Language Processing  (<a href="https://2022.emnlp.org/">EMNLP</a>).</i></li></p>
+  <p><li><b>KGxBoard: Explainable and Interactive Leaderboard for Evaluation of Knowledge Graph Completion Models.</b> Haris Widjaja, Kiril Gashteovski, Wiem Ben Rim, Pengfei Liu, Christopher Malon, Daniel Ruffinelli, Carolin Lawrence, Graham Neubig. In <i>System Demonstrations of the 2022 Conference on Empirical Methods in Natural Language Processing  (<a href="https://2022.emnlp.org/">EMNLP</a>).</i></li></p>
   <p><li><b>Towards Modeling Uncertainty Propagation in Node Classification. </b>Zhao Xu, Carolin Lawrence, Ammar Shaker, Raman Siarheyeu. In <i>IEEE International Conference on Data Mining 2022 (<a href="https://icdm22.cse.usf.edu/">ICDM</a>).</i></li></p>
   <p><li><b>MillIE: Modular & Iterative Multilingual Open Information Extraction. </b>Bhushan Kotnis, Kiril Gashteovski, Daniel Onoro Rubio, Ammar Shaker, Vanesa Rodriguez-Tembras, Makoto Takamoto, Mathias Niepert, Carolin Lawrence. In <i>60th Annual Meeting of the Association for Computational Linguistics (<a href="https://2022.aclweb.org/">ACL</a>). </i>(<a href="https://aclanthology.org/2022.acl-long.478/">pdf</a>)</li></p>
   <p><li><b>BenchIE: A Framework for Multi-Faceted Fact-Based Open Information Extraction Evaluation. </b>Kiril Gashteovski, Mingying Yu, Bhushan Kotnis, Carolin Lawrence, Mathias Niepert, Goran Glavaš. In <i>60th Annual Meeting of the Association for Computational Linguistics (<a href="https://2022.aclweb.org/">ACL</a>). </i>(<a href="https://aclanthology.org/2022.acl-long.307/">pdf</a>)</li></p>
   <p><li><b>AnnIE: An Annotation Platform for Constructing Complete Open Information Extraction Benchmark. </b>Niklas Friedrich, Kiril Gashteovski, Mingying Yu, Bhushan Kotnis, Carolin Lawrence, Mathias Niepert, Goran Glavaš. In System Demonstrations of <i>60th Annual Meeting of the Association for Computational Linguistics (<a href="https://2022.aclweb.org/">ACL</a>). </i>(<a href="https://aclanthology.org/2022.acl-demo.5/">pdf</a>)</li></p>
   <p><li><b>Human-Centric Research for NLP: Towards a Definition and Guiding Questions.</b> Bhushan Kotnis, Kiril Gashteovski, Julia Gastinger, Giuseppe Serra, Francesco Alesiani, Timo Sztyler, Ammar Shaker, Na Gong, Carolin Lawrence, Zhao Xu. In the <i><a href="https://sites.google.com/view/hciandnlp">2nd HCI + NLP Workshop</a></i>, co-located with <a href="https://2022.naacl.org/">NAACL</a>. (<a href="https://arxiv.org/pdf/2207.04447.pdf">pdf</a>)</li></p>
     <p><li><b>A Human-Centric Assessment Framework for AI. </b>Sascha Saralajew, Ammar Shaker, Zhao Xu, Kiril Gashteovski, Bhushan Kotnis, Wiem Ben-Rim, Jürgen Quittek, Carolin Lawrence. In <i><a href="https://icml.cc/">ICML</a> 2022 Workshop on Human-Machine Collaboration and Teaming (<a href="https://sites.google.com/view/icml-2022-hmcat/home">HMCaT</a>). </i>(<a href="https://arxiv.org/abs/2205.12749">pdf</a>)</li></p>
+</ul>
+
+
+### Cross-Submissions & Abstracts
+<ul>
+<p><li><b>A Human-Centric Assessment Framework for AI.</b> Sascha Saralajew, Ammar Shaker, Zhao Xu, Kiril Gashteovski, Bhushan Kotnis, Wiem Ben-Rim, Jürgen Quittek, Carolin Lawrence. 5th <a href="https://blackboxnlp.github.io/">BlackboxNLP</a> Workshop on Analyzing and Interpreting Neural Networks for NLP, co-located with (<a href="https://2022.emnlp.org/">EMNLP</a>).</li></p>  
+<p><li><b>Behavioral Testing of Knowledge Graph Embedding Models for Link Prediction.</b> Wiem Ben Rim, Carolin Lawrence, Kiril Gashteovski, Mathias Niepert, Naoaki Okazaki. 5th <a href="https://blackboxnlp.github.io/">BlackboxNLP</a> Workshop on Analyzing and Interpreting Neural Networks for NLP, co-located with (<a href="https://2022.emnlp.org/">EMNLP</a>).</li></p>
 </ul>
   
 ## 2021
