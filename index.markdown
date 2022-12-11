@@ -37,6 +37,8 @@ Recently, colleagues and I have developed a method to explain the prediction of 
 ## News
 # 2022
 * Honored to be a panelist on the "Responsible AI" panel hosted by the <a href="https://www.fintechfestival.sg/">Singapore FinTech Festival</a>
+* <a href="publications/">1 paper</a> accepted at AAAI 2023
+* Co-session chair for "Information Extraction 2" at EMNLP 2022
 * Area Chair for the <i>Interpretability, Interactivity and Analysis of Models for NLP</i> track at EMNLP
 * <a href="publications/">1 paper</a> accepted at EMNLP System Demos
 * 2 Papers accepted at the Blackbox NLP workshop, co-located with EMNLP
