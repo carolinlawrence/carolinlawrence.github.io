@@ -26,7 +26,9 @@ email: carolin dot lawrence at neclab dot eu
 #  Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: caro__lawrence
+mastodon:
+- username: carolinlawrence
+  instance: sigmoid.social
 github_username:  carolinlawrence
 linkedin_username: carolin-lawrence
 
