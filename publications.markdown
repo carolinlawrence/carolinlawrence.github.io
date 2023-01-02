@@ -4,9 +4,14 @@ permalink: "/publications/"
 layout: page
 ---
 
+## 2023
+<ul>       
+    <p><li><b>Multi-Source Survival Domain Adaptation.</b> Ammar Shaker, Carolin Lawrence. To appear in <i>37th AAAI Conference on Artificial Intelligence (<a href="https://aaai.org/Conferences/AAAI-23/">AAAI</a>).</i> (<a href="https://arxiv.org/abs/2212.00424">pdf</a>)</li></p>    
+    <p><li><b>A Human-Centric Assessment Framework for AI.</b> Sascha Saralajew, Ammar Shaker, Zhao Xu, Kiril Gashteovski, Bhushan Kotnis, Wiem Ben-Rim, Jürgen Quittek, Carolin Lawrence. To appear in <i>(<a href="https://aaai.org/Conferences/AAAI-23/">AAAI 2023</a>) Workshop on Representation Learning for Responsible Human-Centric AI (<a href="https://r2hcai.github.io/AAAI-23/index.html">R2HCAI</a>) .</i> </li></p>
+</ul>
+    
 ## 2022
 <ul>    
-    <p><li><b>Multi-Source Survival Domain Adaptation.</b> Ammar Shaker, Carolin Lawrence. To appear in <i>37th AAAI Conference on Artificial Intelligence (<a href="https://aaai.org/Conferences/AAAI-23/">AAAI</a>).</i> (<a href="https://arxiv.org/abs/2212.00424">pdf</a>)</li></p>
     <p><li><b>State-Regularized Recurrent Neural Networks to Extract Automata and Explain Predictions.</b> Cheng Wang, Mathias Niepert, Carolin Lawrence. In <i>IEEE Transactions on Pattern Analysis and Machine Intelligence (<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34">TPAMI</a>).</i> (<a href="https://ieeexplore.ieee.org/abstract/document/9965745">pdf</a>)</li></p>
   <p><li><b>KGxBoard: Explainable and Interactive Leaderboard for Evaluation of Knowledge Graph Completion Models.</b> Haris Widjaja, Kiril Gashteovski, Wiem Ben Rim, Pengfei Liu, Christopher Malon, Daniel Ruffinelli, Carolin Lawrence, Graham Neubig. In <i>System Demonstrations of the 2022 Conference on Empirical Methods in Natural Language Processing  (<a href="https://2022.emnlp.org/">EMNLP</a>).</i></li></p>
   <p><li><b>Towards Modeling Uncertainty Propagation in Node Classification. </b>Zhao Xu, Carolin Lawrence, Ammar Shaker, Raman Siarheyeu. In <i>IEEE International Conference on Data Mining 2022 (<a href="https://icdm22.cse.usf.edu/">ICDM</a>).</i></li></p>
