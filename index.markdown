@@ -36,7 +36,7 @@ Recently, colleagues and I have developed a method to explain the prediction of 
 
 ## News
 # 2023
-* Area Chair for the <i>Interpretability, Interactivity and Analysis of Models for NLP</i> track at ACL
+* <a href="https://2023.aclweb.org/committees/program/">Senior Area Chair</a> for the <i>Interpretability, Interactivity and Analysis of Models for NLP</i> track at ACL 2023
 * <a href="publications/">1 paper</a> accepted at AAAI 2023 +  a workshop paper
 * Area Chair for ACL ARR
 
