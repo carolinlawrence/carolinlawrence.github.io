@@ -6,8 +6,8 @@ layout: page
 
 ## 2023
 <ul>       
-    <p><li><b>Multi-Source Survival Domain Adaptation.</b> Ammar Shaker, Carolin Lawrence. To appear in <i>37th AAAI Conference on Artificial Intelligence (<a href="https://aaai.org/Conferences/AAAI-23/">AAAI</a>).</i> (<a href="https://arxiv.org/abs/2212.00424">pdf</a>)</li></p>    
-    <p><li><b>A Human-Centric Assessment Framework for AI.</b> Sascha Saralajew, Ammar Shaker, Zhao Xu, Kiril Gashteovski, Bhushan Kotnis, Wiem Ben-Rim, Jürgen Quittek, Carolin Lawrence. To appear in <i>(<a href="https://aaai.org/Conferences/AAAI-23/">AAAI 2023</a>) Workshop on Representation Learning for Responsible Human-Centric AI (<a href="https://r2hcai.github.io/AAAI-23/index.html">R2HCAI</a>) .</i> </li></p>
+    <p><li><b>Multi-Source Survival Domain Adaptation.</b> Ammar Shaker, Carolin Lawrence. In <i>37th AAAI Conference on Artificial Intelligence (<a href="https://aaai.org/Conferences/AAAI-23/">AAAI</a>).</i> (<a href="https://arxiv.org/abs/2212.00424">pdf</a>)</li></p>    
+    <p><li><b>A Human-Centric Assessment Framework for AI.</b> Sascha Saralajew, Ammar Shaker, Zhao Xu, Kiril Gashteovski, Bhushan Kotnis, Wiem Ben-Rim, Jürgen Quittek, Carolin Lawrence. In <i>(<a href="https://aaai.org/Conferences/AAAI-23/">AAAI 2023</a>) Workshop on Representation Learning for Responsible Human-Centric AI (<a href="https://r2hcai.github.io/AAAI-23/index.html">R2HCAI</a>) .</i> </li></p>
 </ul>
     
 ## 2022
