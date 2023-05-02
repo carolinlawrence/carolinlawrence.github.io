@@ -29,13 +29,10 @@ From 2014-2018 I was graduate research assistant and PhD student at the Statisti
 * Explainable AI: AI should enrich our lives and for this we should work on interpretable, trustworthy and inclusive AI. <a href="https://www.youtube.com/watch?v=ZJXeMkA-4eA" target="_blank">[Video: Explainable AI]</a> <a href="https://www.youtube.com/watch?v=hqKoxqSHyiY" target="_blank">[Video: Explainable AI and Human Centricity]</a>
 * Natural Language Processing, particularly Question-Answering and Information Extraction. <a href="https://www.youtube.com/watch?v=-uJHzqI4zB0" target="_blank">[Video: Understanding Natural Language Processing (NLP)]</a>
 
-Recently, colleagues and I have developed a method to explain the prediction of neural matrix factorization models, which are used for knowledge base completion and recommender systems. You can check out a related talk here:
-
-{% include youtubePlayer.html id=page.youtubeId %}
-
 
 ## News
 # 2023
+* Gave a talk at the <a href="https://www.nlp.c.titech.ac.jp/news/2023/04/21/aitech.en.html">Okazaki Lab, Tokyo Tech</a> on "From Text via Knowledge Graph to Explainable Insights"
 * <a href="https://2023.aclweb.org/committees/program/">Senior Area Chair</a> for the <i>Interpretability, Interactivity and Analysis of Models for NLP</i> track at ACL 2023
 * <a href="publications/">1 paper</a> accepted at AAAI 2023 +  a workshop paper
 * Area Chair for ACL ARR
