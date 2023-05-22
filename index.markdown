@@ -23,7 +23,7 @@ youtubeId: 6UeOwHtBF_0
 
 I am the manager of <a href="https://neclab.eu/research-areas/data-science/human-centric-ai"><i>Human-Centric AI</i> (HAI) at NEC Labs Europe</a> where I lead a team in the area of artificial intelligence, working on explainable machine learning and natural language processing. The goal of the team is to create understandable and supportive AI systems that extend human capabilities.
 
-From 2014-2018 I was graduate research assistant and PhD student at the Statistical NLP group at the Heidelberg University, supervised by Prof. Dr. Stefan Riezler. During my PhD I worked on Natural Language Processing (NLP) problems, such as machine translation and question-answering, and I explored how reinforcement learning can be applied to these problems.
+From 2014-2018 I was graduate research assistant and PhD student at the Heidelberg University, supervised by Prof. Dr. Stefan Riezler, working on learning from human feedback (e.g. with reinforcement learning) for Natural Language Processing.
 
 ## Research Interests
 * Explainable AI: AI should enrich our lives and for this we should work on interpretable, trustworthy and inclusive AI. <a href="https://www.youtube.com/watch?v=ZJXeMkA-4eA" target="_blank">[Video: Explainable AI]</a> <a href="https://www.youtube.com/watch?v=hqKoxqSHyiY" target="_blank">[Video: Explainable AI and Human Centricity]</a>
@@ -32,7 +32,8 @@ From 2014-2018 I was graduate research assistant and PhD student at the Statisti
 
 ## News
 # 2023
-* Gave a talk at the <a href="https://www.nlp.c.titech.ac.jp/news/2023/04/21/aitech.en.html">Okazaki Lab, Tokyo Tech</a> on "From Text via Knowledge Graph to Explainable Insights"
+* Talk at <a href="https://event.kmd.dk/kmdsteam23/">KMD Steam 2023</a> on "Towards Safe & Explainable Usage for LLMs"
+* Talk at the <a href="https://www.nlp.c.titech.ac.jp/news/2023/04/21/aitech.en.html">Okazaki Lab, Tokyo Tech</a> on "From Text via Knowledge Graph to Explainable Insights"
 * <a href="https://2023.aclweb.org/committees/program/">Senior Area Chair</a> for the <i>Interpretability, Interactivity and Analysis of Models for NLP</i> track at ACL 2023
 * <a href="publications/">1 paper</a> accepted at AAAI 2023 +  a workshop paper
 * Area Chair for ACL ARR
