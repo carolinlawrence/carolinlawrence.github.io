@@ -32,6 +32,7 @@ From 2014-2018 I was graduate research assistant and PhD student at the Heidelbe
 
 ## News
 # 2023
+* Won an <a href="https://2023.aclweb.org/program/best_reviewers/">Outstanding Senior Area Chair award from ACL 2023<a/>
 * Talk at <a href="https://event.kmd.dk/kmdsteam23/">KMD Steam 2023</a> on "Towards Safe & Explainable Usage for LLMs"
 * Talk at the <a href="https://www.nlp.c.titech.ac.jp/news/2023/04/21/aitech.en.html">Okazaki Lab, Tokyo Tech</a> on "From Text via Knowledge Graph to Explainable Insights"
 * <a href="https://2023.aclweb.org/committees/program/">Senior Area Chair</a> for the <i>Interpretability, Interactivity and Analysis of Models for NLP</i> track at ACL 2023
