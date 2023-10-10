@@ -21,7 +21,7 @@ youtubeId: 6UeOwHtBF_0
     </div>
 </div>
 
-I am the manager of <a href="https://neclab.eu/research-areas/data-science/human-centric-ai"><i>Human-Centric AI</i> (HAI) at NEC Labs Europe</a> where I lead a team in the area of artificial intelligence, working on explainable machine learning and natural language processing. The goal of the team is to create understandable and supportive AI systems that extend human capabilities.
+I am the manager of <a href="https://neclab.eu/research-areas/data-science/human-centric-ai"><i>Human-Centric AI</i> (HAI) at NEC Labs Europe</a> where I lead a team in the area of artificial intelligence, working on natural language processing and explainable machine learning. The goal of the team is to create understandable and supportive AI systems that extend human capabilities.
 
 From 2014-2018 I was graduate research assistant and PhD student at the Heidelberg University, supervised by Prof. Dr. Stefan Riezler, working on learning from human feedback (e.g. with reinforcement learning) for Natural Language Processing.
 
@@ -32,6 +32,8 @@ From 2014-2018 I was graduate research assistant and PhD student at the Heidelbe
 
 ## News
 # 2023
+* <a href="https://2023.aclweb.org/committees/program/">Senior Area Chair</a> for the <i>Interpretability, Interactivity and Analysis of Models for NLP</i> track at NAACL 2024
+* <a href="publications/">1 paper</a> accepted at EMNLP Main Track, as well as several workshop submissions
 * Won an <a href="https://2023.aclweb.org/program/best_reviewers/">Outstanding Senior Area Chair award from ACL 2023<a/>
 * Talk at <a href="https://event.kmd.dk/kmdsteam23/">KMD Steam 2023</a> on "Towards Safe & Explainable Usage for LLMs"
 * Talk at the <a href="https://www.nlp.c.titech.ac.jp/news/2023/04/21/aitech.en.html">Okazaki Lab, Tokyo Tech</a> on "From Text via Knowledge Graph to Explainable Insights"
