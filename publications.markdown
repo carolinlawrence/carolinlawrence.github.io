@@ -7,9 +7,10 @@ layout: page
 ## 2023
 <ul>   
     <p><li><b>Linking Surface Facts to Large-Scale Knowledge Graphs.</b> Gorjan Radevski, Kiril Gashteovski, Chia-Chien Hung, Carolin Lawrence, Goran Glavaš. In <i>  Empirical Methods in Natural Language Processing (<a href="https://2023.emnlp.org/">EMNLP 2023</a>).</i> </li></p>  
-    <p><li><b>Multi-Source Survival Domain Adaptation.</b> Ammar Shaker, Carolin Lawrence. In <i>37th AAAI Conference on Artificial Intelligence (<a href="https://aaai.org/Conferences/AAAI-23/">AAAI</a>).</i> (<a href="https://arxiv.org/abs/2212.00424">pdf</a>)</li></p>    
+    <p><li><b>Multi-Source Survival Domain Adaptation.</b> Ammar Shaker, Carolin Lawrence. In <i>37th AAAI Conference on Artificial Intelligence (<a href="https://aaai.org/Conferences/AAAI-23/">AAAI</a>).</i> (<a href="https://arxiv.org/abs/2212.00424">pdf</a>)</li></p>  
+    <p><li><b> Improving Cross-Lingual Transfer for Open Information Extraction with Linguistic Feature Projection.</b> Youmi Ma, Bhushan Kotnis, Carolin Lawrence, Goran Glavaš and Naoaki Okazaki. In <i><a href="https://sigtyp.github.io/ws2023-mrl.html">3rd Multilingual Representation Learning Workshop</a>, co-located with <a href="https://2023.emnlp.org/">EMNLP 2023</a> .</i> </li></p>    
+    <p><li><b>Walking a Tightrope -- Evaluating Large Language Models in High-Risk Domains.</b> Chia-Chien Hung, Wiem Ben Rim, Lindsay Frost, Lars Bruckner, Carolin Lawrence. In <i><a href="https://genbench.org/">the first workshop on benchmarking generalisation in NLP (GenBench)</a>, co-located with <a href="https://2023.emnlp.org/">EMNLP 2023</a> .</i> </li></p>
     <p><li><b>A Human-Centric Assessment Framework for AI.</b> Sascha Saralajew, Ammar Shaker, Zhao Xu, Kiril Gashteovski, Bhushan Kotnis, Wiem Ben-Rim, Jürgen Quittek, Carolin Lawrence. In <i>(<a href="https://aaai.org/Conferences/AAAI-23/">AAAI 2023</a>) Workshop on Representation Learning for Responsible Human-Centric AI (<a href="https://r2hcai.github.io/AAAI-23/index.html">R2HCAI</a>) .</i> </li></p>  
-    <p><li><b> Improving Cross-Lingual Transfer for Open Information Extraction with Linguistic Feature Projection.</b> Youmi Ma, Bhushan Kotnis, Carolin Lawrence, Goran Glavaš and Naoaki Okazaki. In <i><a href="https://sigtyp.github.io/ws2023-mrl.html">3rd Multilingual Representation Learning Workshop</a>, co-located with <a href="https://2023.emnlp.org/">EMNLP 2023</a> .</i> </li></p>
 </ul>
 
 ### Cross-Submissions & Abstracts
