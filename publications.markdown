@@ -4,6 +4,11 @@ permalink: "/publications/"
 layout: page
 ---
 
+## 2024
+<ul>   
+    <p><li><b>A Human-Centric Evaluation Platform for Explainable Knowledge Graph Completion.</b>Zhao Xu, Wiem Ben Rim, Kiril Gashteovski, Timo Sztyler, Carolin Lawrence. In <i> System Demonstrations of European Chapter of the Association for Computational Linguistics (<a href="https://2024.eacl.org/">EACL 2024</a>).</i> </li></p>  
+</ul>
+
 ## 2023
 <ul>   
     <p><li><b>Linking Surface Facts to Large-Scale Knowledge Graphs.</b> Gorjan Radevski, Kiril Gashteovski, Chia-Chien Hung, Carolin Lawrence, Goran Glavaš. In <i>  Empirical Methods in Natural Language Processing (<a href="https://2023.emnlp.org/">EMNLP 2023</a>).</i> (<a href="https://aclanthology.org/2023.emnlp-main.445/">pdf</a>)</li></p>  
