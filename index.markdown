@@ -31,8 +31,12 @@ From 2014-2018 I was graduate research assistant and PhD student at the Heidelbe
 
 
 ## News
+# 2024
+* Member of the EACL 2024 Best Paper Award Committee 
+* <a href="https://2024.naacl.org/committees/program/">Senior Area Chair</a> for the <i>Interpretability, Interactivity and Analysis of Models for NLP</i> track at NAACL 2024
+* Senior Area Chair for the <i>Interpretability, Interactivity and Analysis of Models for NLP</i> track at ACL 2024
+
 # 2023
-* <a href="https://2023.aclweb.org/committees/program/">Senior Area Chair</a> for the <i>Interpretability, Interactivity and Analysis of Models for NLP</i> track at NAACL 2024
 * <a href="publications/">1 paper</a> accepted at EMNLP Main Track, as well as several workshop submissions
 * Won an <a href="https://2023.aclweb.org/program/best_reviewers/">Outstanding Senior Area Chair award from ACL 2023<a/>
 * Talk at <a href="https://event.kmd.dk/kmdsteam23/">KMD Steam 2023</a> on "Towards Safe & Explainable Usage for LLMs"
