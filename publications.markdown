@@ -6,7 +6,9 @@ layout: page
 
 ## 2024
 <ul>   
-    <p><li><b>A Human-Centric Evaluation Platform for Explainable Knowledge Graph Completion.</b> Zhao Xu, Wiem Ben Rim, Kiril Gashteovski, Timo Sztyler, Carolin Lawrence. In <i> System Demonstrations of European Chapter of the Association for Computational Linguistics (<a href="https://2024.eacl.org/">EACL 2024</a>).</i> </li></p>  
+    <p><li><b>Large Language Models Enable Few-Shot Clustering.</b> Vijay Viswanathan, Kiril Gashteovski, Carolin Lawrence, Tongshuang Wu, Grahama Neubig. In <i> Transactions of the Association for Computational Linguistics, presenting at (<a href="https://2024.naacl.org/">NAACL 2024</a>).</i> </li></p>  
+    <p><li><b>AgentQuest: A Modular Benchmark Framework to Measure Progress and Improve LLM Agents.</b> Luca Gioacchini, Giuseppe Siracusano, Davide Sanvito, Kiril Gashteovski, David Friede, Roberto Bifulco, Carolin Lawrence. In <i> System Demonstrations of North American Chapter of the Association for Computational Linguistics (<a href="https://2024.naacl.org/">NAACL 2024</a>).</i> (<a href="https://github.com/nec-research/agentquest">code</a>) </li></p>  
+    <p><li><b>A Human-Centric Evaluation Platform for Explainable Knowledge Graph Completion.</b> Zhao Xu, Wiem Ben Rim, Kiril Gashteovski, Timo Sztyler, Carolin Lawrence. In <i> System Demonstrations of European Chapter of the Association for Computational Linguistics (<a href="https://2024.eacl.org/">EACL 2024</a>).</i> (<a href="https://aclanthology.org/2024.eacl-demo.3/">pdf</a>) </li></p>  
 </ul>
 
 ## 2023
