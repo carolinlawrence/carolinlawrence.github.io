@@ -21,7 +21,7 @@ youtubeId: 6UeOwHtBF_0
     </div>
 </div>
 
-I am the manager of <a href="https://neclab.eu/research-areas/data-science/human-centric-ai"><i>Human-Centric AI</i> (HAI) and Chief Research Scientist at NEC Labs Europe</a>. I lead research projects on natural language processing and explainable AI that build the foundation for business applications. The projects focus on creating understandable and supportive AI systems that extend human capabilities.
+I am the manager of <a href="https://neclab.eu/research-areas/data-science/human-centric-ai"><i>Human-Centric AI</i> (HAI)</a> and Chief Research Scientist at NEC Labs Europe. I lead research projects on natural language processing and explainable AI that build the foundation for business applications. The projects focus on creating understandable and supportive AI systems that extend human capabilities.
 
 From 2014-2018 I was graduate research assistant and PhD student at the Heidelberg University, supervised by Prof. Dr. Stefan Riezler, working on learning from human feedback (e.g. with reinforcement learning) for Natural Language Processing.
 
