@@ -14,7 +14,8 @@ youtubeId: 6UeOwHtBF_0
     <div class="col-1-2">
        <div class="content">
        Dr. Carolin Lawrence<br/>
-       Manager, NEC Labs Europe<br/>
+       Manager & Chief Research Scientist <br/>
+       NEC Laboratories Europe<br/>
        Heidelberg, Germany<br/>
        
        </div>
