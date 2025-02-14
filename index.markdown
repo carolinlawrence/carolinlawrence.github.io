@@ -22,7 +22,7 @@ youtubeId: 6UeOwHtBF_0
     </div>
 </div>
 
-I am the manager of <a href="https://neclab.eu/research-areas/data-science/human-centric-ai"><i>Human-Centric AI</i> (HAI)</a> and Chief Research Scientist at NEC Labs Europe. My group and I work on Generative AI with a focus on explainability and usability. We apply Large Language Models and AI agent technology in various use cases in the domains of finance and healthcare. We develop novel techniques in the areas of natural language processing and explainable AI, which we publish at conferences such as ACL, EMNLP or AAAI . I’m passionate about making AI systems that are not only smart but also clear and helpful for everyday users.
+I am the manager of <a href="https://neclab.eu/research-areas/data-science/human-centric-ai"><i>Human-Centric AI</i> (HAI)</a> and Chief Research Scientist at NEC Labs Europe. My group and I work on Generative AI with a focus on explainability and usability. We apply Large Language Models and AI agent technology in various use cases in the domains of finance and healthcare. We develop novel techniques in the areas of natural language processing and explainable AI, which we publish at conferences such as ACL, EMNLP or AAAI. I’m passionate about making AI systems that are not only smart but also clear and helpful for everyday users.
 
 Before joining NEC Labs, I was a graduate research assistant and PhD student at Heidelberg University. During that time I worked on reinforcement learning from human feedback for sequence-to-sequence tasks, i.e. question-answering and machine translation. It’s exciting to see how the ideas from my work with sequence-to-sequence tasks and learning from human feedback have evolved into nowadays powerful Large Language Models.
 
@@ -35,8 +35,6 @@ Before joining NEC Labs, I was a graduate research assistant and PhD student at 
 * Member of the EACL 2024 Best Paper Award Committee 
 * <a href="https://2024.naacl.org/committees/program/">Senior Area Chair</a> for the <i>Interpretability, Interactivity and Analysis of Models for NLP</i> track at NAACL 2024
 * Senior Area Chair for the <i>Interpretability, Interactivity and Analysis of Models for NLP</i> track at ACL 2024
-
-# <a href="activities/">More Activies</a>
 
 ## Selected Papers
 <ul>   
