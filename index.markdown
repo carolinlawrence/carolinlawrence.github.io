@@ -22,40 +22,30 @@ youtubeId: 6UeOwHtBF_0
     </div>
 </div>
 
-I am the manager of <a href="https://neclab.eu/research-areas/data-science/human-centric-ai"><i>Human-Centric AI</i> (HAI)</a> and Chief Research Scientist at NEC Labs Europe. I lead research projects on natural language processing and explainable AI that build the foundation for business applications. The projects focus on creating understandable and supportive AI systems that extend human capabilities.
+I am the manager of <a href="https://neclab.eu/research-areas/data-science/human-centric-ai"><i>Human-Centric AI</i> (HAI)</a> and Chief Research Scientist at NEC Labs Europe. My group and I work on Generative AI with a focus on explainability and usability. We apply Large Language Models and AI agent technology in various use cases in the domains of finance and healthcare. We develop novel techniques in the areas of natural language processing and explainable AI, which we publish at conferences such as ACL, EMNLP or AAAI . I’m passionate about making AI systems that are not only smart but also clear and helpful for everyday users.
 
-From 2014-2018 I was graduate research assistant and PhD student at the Heidelberg University, supervised by Prof. Dr. Stefan Riezler, working on learning from human feedback (e.g. with reinforcement learning) for Natural Language Processing.
-
-## Research Interests
-* Explainable AI: AI should enrich our lives and for this we should work on interpretable, trustworthy and inclusive AI. <a href="https://www.youtube.com/watch?v=ZJXeMkA-4eA" target="_blank">[Video: Explainable AI]</a> <a href="https://www.youtube.com/watch?v=hqKoxqSHyiY" target="_blank">[Video: Explainable AI and Human Centricity]</a>
-* Natural Language Processing, particularly Question-Answering and Information Extraction. <a href="https://www.youtube.com/watch?v=-uJHzqI4zB0" target="_blank">[Video: Understanding Natural Language Processing (NLP)]</a>
-
+Before joining NEC Labs, I was a graduate research assistant and PhD student at Heidelberg University. During that time I worked on reinforcement learning from human feedback for sequence-to-sequence tasks, i.e. question-answering and machine translation. It’s exciting to see how the ideas from my work with sequence-to-sequence tasks and learning from human feedback have evolved into nowadays powerful Large Language Models.
 
 ## News
+# 2025
+* Senior Area Chair for ACL and NAACL
+
 # 2024
+* Senior Area Chair for COLING
 * Member of the EACL 2024 Best Paper Award Committee 
 * <a href="https://2024.naacl.org/committees/program/">Senior Area Chair</a> for the <i>Interpretability, Interactivity and Analysis of Models for NLP</i> track at NAACL 2024
 * Senior Area Chair for the <i>Interpretability, Interactivity and Analysis of Models for NLP</i> track at ACL 2024
 
-# 2023
-* <a href="publications/">1 paper</a> accepted at EMNLP Main Track, as well as several workshop submissions
-* Won an <a href="https://2023.aclweb.org/program/best_reviewers/">Outstanding Senior Area Chair award from ACL 2023<a/>
-* Talk at <a href="https://event.kmd.dk/kmdsteam23/">KMD Steam 2023</a> on "Towards Safe & Explainable Usage for LLMs"
-* Talk at the <a href="https://www.nlp.c.titech.ac.jp/news/2023/04/21/aitech.en.html">Okazaki Lab, Tokyo Tech</a> on "From Text via Knowledge Graph to Explainable Insights"
-* <a href="https://2023.aclweb.org/committees/program/">Senior Area Chair</a> for the <i>Interpretability, Interactivity and Analysis of Models for NLP</i> track at ACL 2023
-* <a href="publications/">1 paper</a> accepted at AAAI 2023 +  a workshop paper
-* Area Chair for ACL ARR
-
-# 2022
-* Honored to be a panelist on the "Responsible AI" panel hosted by the <a href="https://www.fintechfestival.sg/">Singapore FinTech Festival</a>
-* Co-session chair for "Information Extraction 2" at EMNLP 2022
-* Area Chair for the <i>Interpretability, Interactivity and Analysis of Models for NLP</i> track at EMNLP
-* <a href="publications/">1 paper</a> accepted at EMNLP System Demos
-* 2 Papers accepted at the Blackbox NLP workshop, co-located with EMNLP
-* <a href="publications/">1 paper</a> accepted at ICDM
-* <a href="publications/">3 papers</a> accepted at ACL
-* Students from Danish and other European universities wrote a <a href="https://nlpnorth.github.io/content/emnlp-2021-blogs.html">series of great blog posts</a> based on EMNLP 2022 papers and talks, this was based on the <a href="https://en.itu.dk/Research/PhD-Programme/PhD-Courses/PhD-courses-2021/PhD-Course---Communicating-State-of-the-art-NLP-Research-to-a-Broader-Audience">half-day workshop on scientific communication</a> I gave last year
-* Action Editor for ACL ARR
-
 # <a href="activities/">More Activies</a>
 
+## Selected Papers
+<ul>   
+    <p><li><b>Large Language Models Enable Few-Shot Clustering.</b> Vijay Viswanathan, Kiril Gashteovski, Carolin Lawrence, Tongshuang Wu, Grahama Neubig. In <i> Transactions of the Association for Computational Linguistics, presenting at (<a href="https://2024.naacl.org/">NAACL 2024</a>).</i> (<a href="https://aclanthology.org/2024.tacl-1.18.pdf">pdf</a>) </li></p> 
+    <p><li><b>AgentQuest: A Modular Benchmark Framework to Measure Progress and Improve LLM Agents.</b> Luca Gioacchini, Giuseppe Siracusano, Davide Sanvito, Kiril Gashteovski, David Friede, Roberto Bifulco, Carolin Lawrence. In <i> System Demonstrations of North American Chapter of the Association for Computational Linguistics (<a href="https://2024.naacl.org/">NAACL 2024</a>).</i> (<a href="https://aclanthology.org/2024.naacl-demo.19.pdf">pdf</a>) (<a href="https://github.com/nec-research/agentquest">code</a>) </li></p>  
+    <p><li><b>Towards Safer Large Language Models (LLMs).</b> Carolin Lawrence, Roberto Bifulco, Kiril Gastheovski, Chia-Chien Hung, Wiem Ben Rim, Ammar Shaker, Masafumi Oyamada, Kunihiko Sadamasa, Masafumi Enomoto, Kunihiro Takeoka. In <i> <a href="https://www.nec.com/en/global/techrep/journal/g23/n02/g2302pa.html">NEC Technical Journal Vol.17 No.2</a> June 2024 Special Issue on Revolutionizing Business Practices with Generative AI — Advancing the Societal Adoption of AI with the Support of Generative AI Technologies.</i> (<a href="https://www.nec.com/en/global/techrep/journal/g23/n02/pdf/230214.pdf">pdf</a>) </li></p>  
+    <p><li><b><i>Outstanding Paper Award</i> Behavioral Testing of Knowledge Graph Embedding Models for Link Prediction.</b> Wiem Ben Rim, Carolin Lawrence, Kiril Gashteovski, Mathias Niepert, Naoaki Okazaki. In <i>Conference on Automated Knowledge Base Construction (<a href="https://www.akbc.ws/2021/">AKBC</a>).</i> (<a href="https://www.akbc.ws/2021/papers/3_2B2MliB8V">pdf</a>)</li></p>
+    <p><li><b>Learning from Human Feedback: Challenges for Real-World Reinforcement Learning in NLP.</b> Julia Kreutzer, Stefan Riezler and Carolin Lawrence. In <i>5th Workshop on Structured Prediction for NLP (<a href="http://structuredprediction.github.io/SPNLP21">SPNLP</a>), at 59th Annual Meeting of the Association for Computational Linguistics (<a href="https://2021.aclweb.org/">ACL</a>).</i>  (<a href="https://arxiv.org/abs/2011.02511">pdf</a>)</li></p>
+    <p><li><b>Attending to Future Tokens for Bidirectional Sequence Generation.</b> Carolin Lawrence, Bhushan Kotnis, Mathias Niepert. In <i>Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (<a href='https://www.emnlp-ijcnlp2019.org/'>EMNLP-IJCNLP</a>)</i>. (<a href="https://www.aclweb.org/anthology/D19-1001">pdf</a>)</li></p>
+    <p><li><b>Improving a Neural Semantic Parser by Counterfactual Learning from Human Bandit Feedback.</b> Carolin Lawrence, Stefan Riezler. In <i>Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (<a href='http://acl2018.org/'>ACL 2018</a>)</i>, Melbourne, Australia. (<a href="http://aclweb.org/anthology/P18-1169">pdf</a>)</li></p>
+    <p><li><b> Response-based Learning for Grounded Machine Translation. </b> Stefan Riezler, Patrick Simianer and Carolin Haas / Lawrence. In <i>Proceedings of the 52nd Annual Meeting of the Association for Computational Linguistics (<a href='http://acl2014.org/'>ACL 2014</a>)</i>, Baltimore, MD. (<a href='http://www.aclweb.org/anthology/P14-1083'>pdf</a>)</li></p>
+</ul>
