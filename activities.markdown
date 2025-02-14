@@ -3,6 +3,14 @@ layout: page
 title: Activities
 permalink: /activities/
 ---
+# 2023
+* <a href="publications/">1 paper</a> accepted at EMNLP Main Track, as well as several workshop submissions
+* Won an <a href="https://2023.aclweb.org/program/best_reviewers/">Outstanding Senior Area Chair award from ACL 2023<a/>
+* Talk at <a href="https://event.kmd.dk/kmdsteam23/">KMD Steam 2023</a> on "Towards Safe & Explainable Usage for LLMs"
+* Talk at the <a href="https://www.nlp.c.titech.ac.jp/news/2023/04/21/aitech.en.html">Okazaki Lab, Tokyo Tech</a> on "From Text via Knowledge Graph to Explainable Insights"
+* <a href="https://2023.aclweb.org/committees/program/">Senior Area Chair</a> for the <i>Interpretability, Interactivity and Analysis of Models for NLP</i> track at ACL 2023
+* <a href="publications/">1 paper</a> accepted at AAAI 2023 +  a workshop paper
+* Area Chair for ACL ARR
 
 # 2022
 * Honored to be a panelist on the "Responsible AI" panel hosted by the <a href="https://www.fintechfestival.sg/">Singapore FinTech Festival</a>
