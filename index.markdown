@@ -28,6 +28,7 @@ Before joining NEC Labs, I was a graduate research assistant and PhD student at 
 
 ## News
 # 2025
+* 3 Papers accepted at ACL 2025
 * Senior Area Chair for ACL and NAACL
 
 # 2024
@@ -38,6 +39,11 @@ Before joining NEC Labs, I was a graduate research assistant and PhD student at 
 
 ## Selected Papers
 <ul>   
+    <p><li><b>On Synthesizing Data for Context Attribution in Question Answering.</b> Gorjan Radevski, Kiril Gashteovski, Shahbaz Syed, Christopher Malon, Sebastien Nicolas, Chia-Chien Hung, Timo Sztyler, Verena Heußer, Wiem Ben Rim, Masafumi Enomoto, Kunihiro Takeoka, Masafumi Oyamada, Goran Glavaš, Carolin Lawrence. In <i> Proceedings of the the 63rd Annual Meeting of the Association for Computational Linguistics 
+ (<a href="https://2025.aclweb.org/">ACL 2025</a>).</i> (<a href="https://arxiv.org/pdf/2504.05317">pre-print</a>) </li></p>
+    <p><li><b>MEDDxAgent: A Unified Modular Agent Framework for Explainable Automatic Differential Diagnosis.</b> Daniel Rose, Chia-Chien Hung, Marco Lepri, Israa Alqassem, Kiril Gashteovski and Carolin Lawrence. In <i> Proceedings of the the 63rd Annual Meeting of the Association for Computational Linguistics (<a href="https://2025.aclweb.org/">ACL 2025</a>).</i> (<a href="https://arxiv.org/pdf/2502.19175">pre-print</a>) </li></p>
+    <p><li><b>Evaluating Language Models as Synthetic Data Generators.</b> Seungone Kim, Juyoung Suk, Xiang Yue, Vijay Viswanathan, 
+Seongyun Lee, Yizhong Wang, Kiril Gashteovski, Carolin Lawrence, Sean Welleck, Graham Neubig. In <i> Proceedings of the the 63rd Annual Meeting of the Association for Computational Linguistics (<a href="https://2025.aclweb.org/">ACL 2025</a>).</i> (<a href="https://arxiv.org/pdf/2412.03679">pre-print</a>) </li></p>
     <p><li><b>Large Language Models Enable Few-Shot Clustering.</b> Vijay Viswanathan, Kiril Gashteovski, Carolin Lawrence, Tongshuang Wu, Grahama Neubig. In <i> Transactions of the Association for Computational Linguistics, presenting at (<a href="https://2024.naacl.org/">NAACL 2024</a>).</i> (<a href="https://aclanthology.org/2024.tacl-1.18.pdf">pdf</a>) </li></p> 
     <p><li><b>AgentQuest: A Modular Benchmark Framework to Measure Progress and Improve LLM Agents.</b> Luca Gioacchini, Giuseppe Siracusano, Davide Sanvito, Kiril Gashteovski, David Friede, Roberto Bifulco, Carolin Lawrence. In <i> System Demonstrations of North American Chapter of the Association for Computational Linguistics (<a href="https://2024.naacl.org/">NAACL 2024</a>).</i> (<a href="https://aclanthology.org/2024.naacl-demo.19.pdf">pdf</a>) (<a href="https://github.com/nec-research/agentquest">code</a>) </li></p>  
     <p><li><b>Towards Safer Large Language Models (LLMs).</b> Carolin Lawrence, Roberto Bifulco, Kiril Gastheovski, Chia-Chien Hung, Wiem Ben Rim, Ammar Shaker, Masafumi Oyamada, Kunihiko Sadamasa, Masafumi Enomoto, Kunihiro Takeoka. In <i> <a href="https://www.nec.com/en/global/techrep/journal/g23/n02/g2302pa.html">NEC Technical Journal Vol.17 No.2</a> June 2024 Special Issue on Revolutionizing Business Practices with Generative AI — Advancing the Societal Adoption of AI with the Support of Generative AI Technologies.</i> (<a href="https://www.nec.com/en/global/techrep/journal/g23/n02/pdf/230214.pdf">pdf</a>) </li></p>  
