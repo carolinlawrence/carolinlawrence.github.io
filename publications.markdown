@@ -7,10 +7,10 @@ layout: page
 ## 2025
 <ul>   
 <p><li><b>On Synthesizing Data for Context Attribution in Question Answering.</b> Gorjan Radevski, Kiril Gashteovski, Shahbaz Syed, Christopher Malon, Sebastien Nicolas, Chia-Chien Hung, Timo Sztyler, Verena Heußer, Wiem Ben Rim, Masafumi Enomoto, Kunihiro Takeoka, Masafumi Oyamada, Goran Glavaš, Carolin Lawrence. In <i> Proceedings of the the 63rd Annual Meeting of the Association for Computational Linguistics 
- (<a href="https://2025.aclweb.org/">ACL 2025</a>).</i> (<a href="https://arxiv.org/pdf/2504.05317">pre-print</a>) </li></p>
-    <p><li><b>MEDDxAgent: A Unified Modular Agent Framework for Explainable Automatic Differential Diagnosis.</b> Daniel Rose, Chia-Chien Hung, Marco Lepri, Israa Alqassem, Kiril Gashteovski and Carolin Lawrence. In <i> Proceedings of the the 63rd Annual Meeting of the Association for Computational Linguistics (<a href="https://2025.aclweb.org/">ACL 2025</a>).</i> (<a href="https://arxiv.org/pdf/2502.19175">pre-print</a>) </li></p>
+ (<a href="https://2025.aclweb.org/">ACL 2025</a>).</i> (<a href="https://aclanthology.org/2025.acl-long.828/">PDF</a>) </li></p>
+    <p><li><b>MEDDxAgent: A Unified Modular Agent Framework for Explainable Automatic Differential Diagnosis.</b> Daniel Rose, Chia-Chien Hung, Marco Lepri, Israa Alqassem, Kiril Gashteovski and Carolin Lawrence. In <i> Proceedings of the the 63rd Annual Meeting of the Association for Computational Linguistics (<a href="https://2025.aclweb.org/">ACL 2025</a>).</i> (<a href="https://aclanthology.org/2025.acl-long.677/">PDF</a>) </li></p>
     <p><li><b>Evaluating Language Models as Synthetic Data Generators.</b> Seungone Kim, Juyoung Suk, Xiang Yue, Vijay Viswanathan, 
-Seongyun Lee, Yizhong Wang, Kiril Gashteovski, Carolin Lawrence, Sean Welleck, Graham Neubig. In <i> Proceedings of the the 63rd Annual Meeting of the Association for Computational Linguistics (<a href="https://2025.aclweb.org/">ACL 2025</a>).</i> (<a href="https://arxiv.org/pdf/2412.03679">pre-print</a>) </li></p>
+Seongyun Lee, Yizhong Wang, Kiril Gashteovski, Carolin Lawrence, Sean Welleck, Graham Neubig. In <i> Proceedings of the the 63rd Annual Meeting of the Association for Computational Linguistics (<a href="https://2025.aclweb.org/">ACL 2025</a>).</i> (<a href="https://aclanthology.org/2025.acl-long.320/">PDF</a>) </li></p>
 </ul>
 
 ## 2024
