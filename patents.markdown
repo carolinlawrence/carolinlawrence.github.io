@@ -3,12 +3,40 @@ title: Patents
 permalink: "/patents/"
 layout: page
 ---
+<h1>Patents & Patent Applications</h1>
 
-
-## 2026
-<ul>   
- <p><li><b>Compositional Steering of Large Language Models with Steering Tokens.</b> Gorjan Radevski, Kiril Gashteovski, Giwon Hong, Carolin Lawrence, Goran Glavaš. In <i> Proceedings of the the 64th Annual Meeting of the Association for Computational Linguistics 
- (<a href="https://2026.aclweb.org/">ACL 2026</a>).</i> (<a href="https://arxiv.org/abs/2601.05062">pre-print</a>) </li></p> 
- <p><li><b>	Scaling Evaluation-Time Compute with Reasoning Models as Evaluators.</b> Seungone Kim, Ian Wu, Jinu Lee, Xiang Yue, Seongyun Lee, Minkyeong Moon, Carolin Lawrence, Kiril Gashteovski, Julia Hockenmaier, Graham Neubig, Sean Welleck. In <i> Proceedings of the the 64th Annual Meeting of the Association for Computational Linguistics 
- (<a href="https://2026.aclweb.org/">ACL 2026</a>).</i> (<a href="https://arxiv.org/abs/2503.19877">pre-print</a>) </li></p>
+<ul>
+  <li>
+    <a href="https://patents.justia.com/patent/12585877" target="_blank" rel="noopener noreferrer">Grouping and linking facts from text to remove ambiguity using knowledge graphs</a>. Kiril Gashteovski, Gorjan Radevski, Carolin Lawrence, Goran Glavaš.
+  </li>
+  <li>
+    <a href="https://patents.justia.com/patent/20260065146" target="_blank" rel="noopener noreferrer">Bias Mitigation Method and System for AI Systems</a>. Sascha Saralajew, Carolin Lawrence, Wiem Ben Rim.
+  </li>
+  <li>
+    <a href="https://patents.justia.com/patent/12468705" target="_blank" rel="noopener noreferrer">Answering Complex Queries in Knowledge Graphs with Bidirectional Sequence Encoders Usable to Support Decision Making and Having Medical Use Applications</a>. Bhushan Kotnis, Mathias Niepert, Carolin Lawrence.
+  </li>
+  <li>
+    <a href="https://patents.justia.com/patent/12417232" target="_blank" rel="noopener noreferrer">Information Aggregation in a Multi-Modal Entity-Feature Graph for Intervention Prediction</a>. Timo Sztyler, Carolin Lawrence.
+  </li>
+  <li>
+    <a href="https://patents.justia.com/patent/20250225393" target="_blank" rel="noopener noreferrer">Debater System for Collaborative Discussions Based on Explainable Predictions</a>. Carolin Lawrence, Timo Sztyler.
+  </li>
+  <li>
+    <a href="https://patents.justia.com/patent/11741318" target="_blank" rel="noopener noreferrer">Open Information Extraction from Low Resource Languages</a>. Bhushan Kotnis, Kiril Gashteovski, Carolin Lawrence.
+  </li>
+  <li>
+    <a href="https://patents.justia.com/patent/20230267338" target="_blank" rel="noopener noreferrer">Keyword Based Open Information Extraction for Fact-Relevant Knowledge Graph Creation and Link Prediction</a>. Bhushan Kotnis, Kiril Gashteovski, Carolin Lawrence.
+  </li>
+  <li>
+    <a href="https://patents.justia.com/patent/20230259790" target="_blank" rel="noopener noreferrer">Artificial Intelligence System for a Joint Group Prediction by Individual Prediction and Explanation-Based Re-Ranking</a>. Timo Sztyler, Carolin Lawrence.
+  </li>
+  <li>
+    <a href="https://patents.justia.com/patent/20230142625" target="_blank" rel="noopener noreferrer">Method and System of Providing Personalized Guideline Information for a User in a Predetermined Domain</a>. Carolin Lawrence, Timo Sztyler.
+  </li>
+  <li>
+    <a href="https://patents.justia.com/patent/20220366274" target="_blank" rel="noopener noreferrer">Method for Operating a Neural Link Prediction Model and a Corresponding System</a>. Carolin Lawrence, Timo Sztyler, Mathias Niepert.
+  </li>
+  <li>
+    <a href="https://patents.justia.com/patent/20220309230" target="_blank" rel="noopener noreferrer">Bidirectional Sequence Generation</a>. Carolin Lawrence, Bhushan Kotnis, Mathias Niepert.
+  </li>
 </ul>
