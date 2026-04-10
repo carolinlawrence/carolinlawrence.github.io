@@ -3,6 +3,20 @@ layout: page
 title: Activities
 permalink: /activities/
 ---
+# 2026
+* 2 Papers accepted at ACL 2026
+* Senior Area Chair for ACL
+
+# 2025
+* 3 Papers accepted at ACL 2025
+* Senior Area Chair for ACL and NAACL
+
+# 2024
+* Senior Area Chair for COLING
+* Member of the EACL 2024 Best Paper Award Committee 
+* <a href="https://2024.naacl.org/committees/program/">Senior Area Chair</a> for the <i>Interpretability, Interactivity and Analysis of Models for NLP</i> track at NAACL 2024
+* Senior Area Chair for the <i>Interpretability, Interactivity and Analysis of Models for NLP</i> track at ACL 2024
+
 # 2023
 * <a href="publications/">1 paper</a> accepted at EMNLP Main Track, as well as several workshop submissions
 * Won an <a href="https://2023.aclweb.org/program/best_reviewers/">Outstanding Senior Area Chair award from ACL 2023<a/>
