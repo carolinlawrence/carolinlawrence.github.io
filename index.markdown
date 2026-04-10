@@ -14,7 +14,7 @@ youtubeId: 6UeOwHtBF_0
     <div class="col-1-2">
        <div class="content">
        Dr. Carolin Lawrence<br/>
-       Manager & Chief Research Scientist <br/>
+       Senior Manager & Chief Research Scientist <br/>
        NEC Laboratories Europe<br/>
        Heidelberg, Germany<br/>
        
@@ -22,7 +22,7 @@ youtubeId: 6UeOwHtBF_0
     </div>
 </div>
 
-I am the manager of <a href="https://neclab.eu/research-areas/data-science/human-centric-ai"><i>Human-Centric AI</i> (HAI)</a> and Chief Research Scientist at NEC Labs Europe. My group and I work on Generative AI with a focus on explainability and usability. We apply Large Language Models and AI agent technology in various use cases in the domains of finance and healthcare. We develop novel techniques in the areas of natural language processing and explainable AI, which we publish at conferences such as ACL, EMNLP or AAAI. I’m passionate about making AI systems that are not only smart but also clear and helpful for everyday users.
-
-Before joining NEC Labs, I was a graduate research assistant and PhD student at Heidelberg University. During that time I worked on reinforcement learning from human feedback for sequence-to-sequence tasks, i.e. question-answering and machine translation. It’s exciting to see how the ideas from my work with sequence-to-sequence tasks and learning from human feedback have evolved into nowadays powerful Large Language Models.
+I am senior manager and chief research scientist at <a href="https://neclab.eu/">NEC Labs Europe</a>. I oversee the work of the groups <a href="https://neclab.eu/research-areas/data-science/human-centric-ai"><i>Human-Centric AI</i> (HAI)</a> and Reliable GenAI Solutions (RGS). I'm the manager of the Human-Centric AI group, where we work on Natural Language Processing, Generative AI and agentic systems to enables human-AI collaborations that empower society. In HAI and RGS we build agentic AI solutions for NEC. Additionally, we publish at top-tier conferences and work on patent applications. I'm passionate about developing AI technologies that are understandable, supportive, and capable of extending human capabilities in meaningful ways.
+ 
+Before joining NEC Labs, I was a graduate research assistant and PhD student at Heidelberg University. During that time I worked on reinforcement learning from human feedback for Generative AI.
 
