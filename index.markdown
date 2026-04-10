@@ -47,38 +47,38 @@ I am always interested in conversations around trustworthy generative AI, agenti
 <br/>
 <h4>Current focus</h4>
   <div class="focus-item">
-    <h5>Human-centered generative AI</h5>
+    <b>Human-centered generative AI</b>
     <p>Designing AI systems that are supportive, understandable, and aligned with how people actually work and reason.</p>
   </div>
   <div class="focus-item">
-    <h5>Agentic systems for real-world use</h5>
+    <b>Agentic systems for real-world use</h5>
     <p>Building modular and trustworthy agentic AI systems that can support complex workflows and practical NEC applications.</p>
   </div>
   <div class="focus-item">
-    <h5>High-impact applications</h5>
+    <b>High-impact applications</b>
     <p>Applying these ideas in domains such as finance, public safety, and other settings where AI should augment human expertise rather than replace it.</p>
   </div>
 
 <section>
-  <h3>Selected papers with one-line significance</h3>
+  <h4>Selected papers with one-line significance</h4>
 
   <div class="paper-item">
-    <h5>Compositional Steering of Large Language Models with Steering Tokens <span>(ACL 2026)</span></h5>
+    <b>Compositional Steering of Large Language Models with Steering Tokens <span>(ACL 2026)</span></b>
     <p>Explores controllable behavior in LLMs, pointing toward more steerable and governable generative systems.</p>
   </div>
 
   <div class="paper-item">
-    <h5>MEDDxAgent: A Unified Modular Agent Framework for Explainable Automatic Differential Diagnosis <span>(ACL 2025)</span></h5>
+    <b>MEDDxAgent: A Unified Modular Agent Framework for Explainable Automatic Differential Diagnosis <span>(ACL 2025)</span></b>
     <p>Shows how modular agent frameworks can support explainable decision-making in a high-stakes healthcare setting.</p>
   </div>
 
   <div class="paper-item">
-    <h5>Towards Safer Large Language Models <span>(NEC Technical Journal, 2024)</span></h5>
+    <b>Towards Safer Large Language Models <span>(NEC Technical Journal, 2024)</span></b>
     <p>Frames safety as a practical research and deployment challenge for real-world LLM adoption.</p>
   </div>
 
   <div class="paper-item">
-    <h5>Large Language Models Enable Few-Shot Clustering <span>(TACL / NAACL 2024)</span></h5>
+    <b>Large Language Models Enable Few-Shot Clustering <span>(TACL / NAACL 2024)</span></b>
     <p>Demonstrates how LLMs can support structure discovery with minimal task-specific supervision.</p>
   </div>
 </section>
