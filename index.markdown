@@ -21,7 +21,7 @@ youtubeId: 6UeOwHtBF_0
        </div>
     </div>
 </div>
-<h4>Building human-centered, reliable AI for real-world impact and societal benefit</h4>
+<h4><b>Building human-centered, reliable AI for real-world impact and societal benefit</b></h4>
 
 I am Senior Manager and Chief Research Scientist at <a href="https://neclab.eu/">NEC Labs Europe</a>, where I oversee the <a href="https://neclab.eu/research-areas/data-science/human-centric-ai"><i>Human-Centric AI</i></a> and <i>Reliable GenAI Solutions</i> groups and lead research on natural language processing, generative AI, and agentic systems. My work focuses on building AI that is understandable, reliable, and useful in practice—advancing human-AI collaboration while translating research into real-world solutions, publications, and patents.
 
