@@ -1,1 +1,7 @@
+---
+title: Patents
+permalink: "/patents/"
+layout: page
+---
 
+TBD
