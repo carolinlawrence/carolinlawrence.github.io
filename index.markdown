@@ -45,7 +45,7 @@ I am always interested in conversations around trustworthy generative AI, agenti
 </ul>
 
 <br/>
-<h4>Current focus</h4>
+<h4>Current Focus</h4>
   <div class="focus-item">
     <b>Human-centered generative AI</b>
     <p>Designing AI systems that are supportive, understandable, and aligned with how people actually work and reason.</p>
@@ -59,8 +59,9 @@ I am always interested in conversations around trustworthy generative AI, agenti
     <p>Applying these ideas in domains such as finance, public safety, and other settings where AI should augment human expertise rather than replace it.</p>
   </div>
 
+<br/>
 <section>
-  <h4>Selected papers with one-line significance</h4>
+  <h4>Selected Papers</h4>
 
   <div class="paper-item">
     <b>Compositional Steering of Large Language Models with Steering Tokens <span>(ACL 2026)</span></b>
