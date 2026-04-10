@@ -51,7 +51,7 @@ I am always interested in conversations around trustworthy generative AI, agenti
     <p>Designing AI systems that are supportive, understandable, and aligned with how people actually work and reason.</p>
   </div>
   <div class="focus-item">
-    <b>Agentic systems for real-world use</h5>
+    <b>Agentic systems for real-world use</b>
     <p>Building modular and trustworthy agentic AI systems that can support complex workflows and practical NEC applications.</p>
   </div>
   <div class="focus-item">
