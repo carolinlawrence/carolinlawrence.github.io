@@ -4,9 +4,17 @@ permalink: "/publications/"
 layout: page
 ---
 
+## 2026
+<ul>   
+ <p><li><b>Compositional Steering of Large Language Models with Steering Tokens.</b> Gorjan Radevski, Kiril Gashteovski, Giwon Hong, Carolin Lawrence, Goran Glavaš. In <i> Proceedings of the the 64th Annual Meeting of the Association for Computational Linguistics 
+ (<a href="https://2026.aclweb.org/">ACL 2026</a>).</i> (<a href="https://arxiv.org/abs/2601.05062">pre-print</a>) </li></p> 
+ <p><li><b>	Scaling Evaluation-Time Compute with Reasoning Models as Evaluators.</b> Seungone Kim, Ian Wu, Jinu Lee, Xiang Yue, Seongyun Lee, Minkyeong Moon, Carolin Lawrence, Kiril Gashteovski, Julia Hockenmaier, Graham Neubig, Sean Welleck. In <i> Proceedings of the the 64th Annual Meeting of the Association for Computational Linguistics 
+ (<a href="https://2026.aclweb.org/">ACL 2026</a>).</i> (<a href="https://arxiv.org/abs/2503.19877">pre-print</a>) </li></p>
+</ul>
+
 ## 2025
 <ul>   
- <p><li><b>Not-Just-Scaling Laws: Towards a Better Understanding of the Downstream Impact of Language Model Design Decisions.</b> Emmy Liu, Amanda Bertsch, Lintang Sutawika, Lindia Tjuatja, Patrick Fernandes, Lara Marinov, Michael Chen, Shreya Singhal, Carolin Lawrence, Aditi Raghunathan, Kiril Gashteovski, Graham Neubig. In <i> Empirical Methods in Natural Language Processing (<a href="https://2025.emnlp.org/">EMNLP 2025</a>).</i> (<a href="https://arxiv.org/abs/2503.03862">pre-print</a>) </li></p>
+  <p><li><b>Not-Just-Scaling Laws: Towards a Better Understanding of the Downstream Impact of Language Model Design Decisions.</b> Emmy Liu, Amanda Bertsch, Lintang Sutawika, Lindia Tjuatja, Patrick Fernandes, Lara Marinov, Michael Chen, Shreya Singhal, Carolin Lawrence, Aditi Raghunathan, Kiril Gashteovski, Graham Neubig. In <i> Empirical Methods in Natural Language Processing (<a href="https://2025.emnlp.org/">EMNLP 2025</a>).</i> (<a href="https://aclanthology.org/2025.emnlp-main.830/">PDF</a>) </li></p>
 <p><li><b>On Synthesizing Data for Context Attribution in Question Answering.</b> Gorjan Radevski, Kiril Gashteovski, Shahbaz Syed, Christopher Malon, Sebastien Nicolas, Chia-Chien Hung, Timo Sztyler, Verena Heußer, Wiem Ben Rim, Masafumi Enomoto, Kunihiro Takeoka, Masafumi Oyamada, Goran Glavaš, Carolin Lawrence. In <i> Proceedings of the the 63rd Annual Meeting of the Association for Computational Linguistics 
  (<a href="https://2025.aclweb.org/">ACL 2025</a>).</i> (<a href="https://aclanthology.org/2025.acl-long.828/">PDF</a>) </li></p>
     <p><li><b>MEDDxAgent: A Unified Modular Agent Framework for Explainable Automatic Differential Diagnosis.</b> Daniel Rose, Chia-Chien Hung, Marco Lepri, Israa Alqassem, Kiril Gashteovski and Carolin Lawrence. In <i> Proceedings of the the 63rd Annual Meeting of the Association for Computational Linguistics (<a href="https://2025.aclweb.org/">ACL 2025</a>).</i> (<a href="https://aclanthology.org/2025.acl-long.677/">PDF</a>) </li></p>
