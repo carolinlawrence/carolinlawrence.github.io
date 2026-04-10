@@ -37,3 +37,41 @@ I lead research across the Human-Centric AI and Reliable GenAI Solutions groups 
 <li><strong>ACL 2025:</strong> three papers accepted on context attribution, differential-diagnosis agents, and synthetic data evaluation.</li>
 </ul>
 
+<h2>Current focus</h2>
+  <div class="focus-item">
+    <h3>Human-centered generative AI</h3>
+    <p>Designing AI systems that are supportive, understandable, and aligned with how people actually work and reason.</p>
+  </div>
+  <div class="focus-item">
+    <h3>Agentic systems for real-world use</h3>
+    <p>Building modular and trustworthy agentic AI systems that can support complex workflows and practical NEC applications.</p>
+  </div>
+  <div class="focus-item">
+    <h3>High-impact applications</h3>
+    <p>Applying these ideas in domains such as finance, public safety, and other settings where AI should augment human expertise rather than replace it.</p>
+  </div>
+
+<section>
+  <h2>Selected papers with one-line significance</h2>
+
+  <div class="paper-item">
+    <h3>Compositional Steering of Large Language Models with Steering Tokens <span>(ACL 2026)</span></h3>
+    <p>Explores controllable behavior in LLMs, pointing toward more steerable and governable generative systems.</p>
+  </div>
+
+  <div class="paper-item">
+    <h3>MEDDxAgent: A Unified Modular Agent Framework for Explainable Automatic Differential Diagnosis <span>(ACL 2025)</span></h3>
+    <p>Shows how modular agent frameworks can support explainable decision-making in a high-stakes healthcare setting.</p>
+  </div>
+
+  <div class="paper-item">
+    <h3>Towards Safer Large Language Models <span>(NEC Technical Journal, 2024)</span></h3>
+    <p>Frames safety as a practical research and deployment challenge for real-world LLM adoption.</p>
+  </div>
+
+  <div class="paper-item">
+    <h3>Large Language Models Enable Few-Shot Clustering <span>(TACL / NAACL 2024)</span></h3>
+    <p>Demonstrates how LLMs can support structure discovery with minimal task-specific supervision.</p>
+  </div>
+</section>
+
