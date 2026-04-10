@@ -21,10 +21,12 @@ youtubeId: 6UeOwHtBF_0
        </div>
     </div>
 </div>
+<h1>Building human-centered, reliable AI for real-world impact and societal benefit</h1>
+<h2>Building human-centered, reliable AI for real-world impact and societal benefit</h2>
 
-I am senior manager and chief research scientist at <a href="https://neclab.eu/">NEC Labs Europe</a>. I oversee the work of the groups <a href="https://neclab.eu/research-areas/data-science/human-centric-ai"><i>Human-Centric AI</i> (HAI)</a> and Reliable GenAI Solutions (RGS). I'm the manager of the Human-Centric AI group, where we work on Natural Language Processing, Generative AI and agentic systems to enables human-AI collaborations that empower society. In HAI and RGS we build agentic AI solutions for NEC. Additionally, we publish at top-tier conferences and work on patent applications.
+<h3>Building human-centered, reliable AI for real-world impact and societal benefit</h3>
 
-More broadly, I am interested in designing AI systems that help people reason better, make better decisions, and maintain appropriate trust in automated systems. Alongside research, I contribute to the field through scientific leadership and service, including Senior Area Chair roles for major NLP conferences.
- 
-Before joining NEC Labs, I was a graduate research assistant and PhD student at Heidelberg University. During that time I worked on reinforcement learning from human feedback for Generative AI.
+I am Senior Manager and Chief Research Scientist at <a href="https://neclab.eu/">NEC Labs Europe</a>, where I oversee the <a href="https://neclab.eu/research-areas/data-science/human-centric-ai"><i>Human-Centric AI</i></a> and <i>Reliable GenAI Solutions</i> groups and lead research on natural language processing, generative AI, and agentic systems. My work focuses on building AI that is understandable, reliable, and useful in practice—advancing human-AI collaboration while translating research into real-world solutions, publications, and patents.
+
+Before joining NEC, I was a graduate research assistant and PhD student at Heidelberg University. During that time I worked on reinforcement learning from human feedback for Generative AI.
 
