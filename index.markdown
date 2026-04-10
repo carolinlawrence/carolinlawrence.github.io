@@ -30,3 +30,10 @@ Before joining NEC, I was a graduate research assistant and PhD student at Heide
 <h4>Leadership & Service</h4>
 I lead research across the Human-Centric AI and Reliable GenAI Solutions groups at NEC Laboratories Europe, combining academic research with solution-building for NEC. In 2025 my team and I won the Outstanding Value Award of NEC for developing a technology that helps users spot potential LLM hallucinations. I also contribute to the broader research community through scientific service, including Senior Area Chair roles for ACL/NAACL and recognition with the Outstanding Senior Area Chair Award at ACL 2023.
 
+<h4>News</h4>
+<ul class="news-list">
+<li><strong>ACL 2026:</strong> two papers accepted on LLM steering and reasoning-model-based evaluation.</li>
+<li><strong>EMNLP 2025:</strong> new work on how language model design decisions affect downstream performance.</li>
+<li><strong>ACL 2025:</strong> three papers accepted on context attribution, differential-diagnosis agents, and synthetic data evaluation.</li>
+</ul>
+
